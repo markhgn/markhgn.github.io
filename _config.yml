@@ -1,0 +1,9 @@
+name: "Mark Higginson"
+description: "The web is a social artifact. Here is a selected collection of related items."
+
+url: "http://localhost:4000/"
+
+paginate: 5
+
+markdown: rdiscount
+permalink: pretty
