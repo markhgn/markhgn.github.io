@@ -3,7 +3,7 @@ layout: post
 title: Tumblr dispenses with editorial staff
 ---
 
-## After hundreds of stories and videos… we couldn’t be happier with our team’s effort… Storyboard has run its course for now, and our editorial team will be closing up shop and moving on
+## After hundreds of stories and videos… we couldn’t be happier with our team’s effort… Storyboard has run its course for now, and our editorial team will be closing up shop and moving on.
 
 ### via [Tumblr's corporate blog](http://staff.tumblr.com/post/47584806521/a-year-ago-tumblr-did-something-unprecedented)
 

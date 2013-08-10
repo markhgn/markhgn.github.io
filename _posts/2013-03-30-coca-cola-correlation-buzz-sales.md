@@ -3,7 +3,7 @@ layout: post
 title: Coca Cola sees no correlation between 'buzz' and sales
 ---
 
-## We didn’t see any statistically significant relationship between our buzz and our short-term sales
+## We didn’t see any statistically significant relationship between our buzz and our short-term sales.
 
 ### via [Ad Age](http://adage.com/article/cmo-strategy/coca-cola-sees-sales-impact-online-buzz-digital-display-effective-tv/240409/)
 

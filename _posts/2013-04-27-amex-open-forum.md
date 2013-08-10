@@ -3,7 +3,7 @@ layout: post
 title: Is the AmEx Open Forum really a community?
 ---
 
-## AmEx's OPEN forum took four years to get 1 million people aboard and now gets over 150,000 unique visitors per month
+## AmEx's OPEN forum took four years to get 1 million people aboard and now gets over 150,000 unique visitors per month.
 
 ### via [Only Dead Fish](http://neilperkin.typepad.com/only_dead_fish/2012/12/digital-content-trends-2013.html)
 

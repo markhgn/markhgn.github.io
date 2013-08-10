@@ -3,7 +3,7 @@ layout: post
 title: The fantasies and delusions of marketers
 ---
 
-## It was all fantasies and delusions based on naive interpretations of consumer behavior by people who had a whole lot of ideological commitment to the web, and very little experience with real world marketing
+## It was all fantasies and delusions based on naive interpretations of consumer behavior by people who had a whole lot of ideological commitment to the web, and very little experience with real world marketing.
 
 ### via [The Ad Contrarian](http://adcontrarian.blogspot.co.uk/2013/05/native-advertising-traditional.html)
 
