@@ -3,7 +3,7 @@ layout: post
 title: When people really care
 ---
 
-# When people really care
+## When people really care
 
 Further to [my last post](http://markhgn.github.io/2013/08/21/scrutinising-jaguars-social-media-activity/) I thought it useful to contrast "the 3rd most engaged with UK brand on Facebook" with an issue people care about.
 
