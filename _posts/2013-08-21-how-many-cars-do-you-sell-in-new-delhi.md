@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Scrutinising Jaguar's social media activity
+title: How many cars do you sell in New Delhi?
 ---
 
-## Scrutinising Jaguar's social media activity
+## How many cars do you sell in New Delhi?
 
 I get a strong sense that many marketing campaigns are about holding a mirror up to the business paying the invoice and murmuring complimentary things. I refer to this as 'The Emperor's New Clothes'; as long as the marketing department looks on-the-job it's in no-one's interests to ask awkward questions, especially things like "does anyone actually care about this?", "is this at all helpful?" and "what does this signify?".
 
