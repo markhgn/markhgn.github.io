@@ -3,7 +3,7 @@ layout: post
 title: The New York Times in haikus
 ---
 
-![NYT haiku](/assets/images-inline/new-york-times-haiku.png)
+[![NYT haiku](/assets/images-inline/new-york-times-haiku.png)](/assets/images-original/new-york-times-haiku-original.png)
 
 ### via [The New York Times](http://haiku.nytimes.com/)
 

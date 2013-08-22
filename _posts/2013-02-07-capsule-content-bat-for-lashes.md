@@ -3,7 +3,7 @@ layout: post
 title: Capsule content: Bat for Lashes
 ---
 
-![Natasha Khan](/assets/images-inline/natasha-khan.jpg)
+[![Natasha Khan](/assets/images-inline/natasha-khan.jpg)](/assets/images-original/natasha-khan-original.jpg)
 
 ### via [Pitchfork](http://pitchfork.com/features/cover-story/reader/bat-for-lashes/)
 
