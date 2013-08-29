@@ -3,7 +3,7 @@ layout: post
 title: Where to invest your marketing time and reosurces
 ---
 
-![Marketing time and resources](/assets/images-original/time-and-resources.png)
+![Marketing time and resources](/assets/images-original/time-and-resources.jpg)
 
 While writing my last post I came across this apposite article on the Content Marketing Institute’s website. The chart is from a report conducted by a business called ExactTarget. The sample used is rather opaque: ‘US online population aged 18 or older’ and the question itself is somewhat unclear but it is the interpretation of the data that is most amusing.
 
