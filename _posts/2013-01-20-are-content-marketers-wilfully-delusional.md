@@ -40,6 +40,6 @@ A reader is someone who actually reads the article, which means:
 * Finally they need to have not been referred from somewhere else, they should be your readers, not someone else’s readers who are popping by for a quick look; referrals might turn into readers, but they are not yet a reader on that first visit to one article
 * A content destination is about readers not visitors or page views; it is really, really hard to develop and sustain such a space
 
-In the next part of this post I will cover some specific examples.
+In the [next part of this post](http://markhigginson.co.uk/2013/01/21/are-content-marketers-wilfully-delusional-examples/) I will cover some specific examples.
 
 (*) Oh dear. In the original version of this piece I used a post from the blog of US SEO business Blueglass as an example of what not to do. They went out of business. Apparently "BlueGlass was formed by several well-known SEO companies and personalities in the industry. It was a merger of these 'giant' names in the SEO community to form the ultimate SEO company." I guess that didn't work out so well. 
