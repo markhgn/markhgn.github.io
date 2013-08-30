@@ -3,9 +3,9 @@ layout: post
 title: Where to invest your marketing time and reosurces
 ---
 
-[![Marketing time and resources](/assets/images-inline/time-and-resources.jpg)](/assets/images-original/time-and-resources.jpg)
+[![Marketing time and resources](/assets/images-inline/time-and-resources.jpg)](/assets/images-original/time-and-resources-original.jpg)
 
-While writing my last post I came across this apposite article on the Content Marketing Institute’s website. The chart is from a report conducted by a business called ExactTarget. The sample used is rather opaque: ‘US online population aged 18 or older’ and the question itself is somewhat unclear but it is the interpretation of the data that is most amusing.
+While writing my last post I came across [this apposite article](http://contentmarketinginstitute.com/2013/01/consumer-content-marketing-conundrum-more-or-less-content/) on the Content Marketing Institute’s website. The chart is from a report conducted by a business called ExactTarget. The sample used is rather opaque: ‘US online population aged 18 or older’ and the question itself is somewhat unclear but it is the interpretation of the data that is most amusing.
 
 The above indicates the disparity between what marketers think the public wants versus what the public says they want:
 
@@ -18,9 +18,9 @@ Hmm. Where does that leave this description of the point of content marketing fr
 Hence all this hype from marketers around this notion of ‘brands as publishers’ on the web. But the chart above is telling us in a slightly confused way that:
 
 * People who have given their permission by a business to be emailed are happy to receive email from that business (no surprise!)
-* If they want to know more than the company website should host appropriate content…
-* … and this content should be about products…
-* … supported by in-store help
+* The company website should host appropriate content when they want more information...
+* ... and this content should be about products...
+* ... supported by in-store help
 
 My interpretation of this is that the ‘consumers’ who responded were thinking about finding answers to product-related questions.
 
@@ -30,7 +30,7 @@ The writer of the aforementioned article comes to a rather different conclusion 
 
 Um. Are they really ‘desperate’? Is that what these people labelled as ‘consumers’ are asking for? It sounds as though people want to know about new products and when they are aware of them want to be able to find out the details easily and in their own time, hence the lack of desire for marketing messages through other social platforms.
 
-The response to marketing through Facebook is not necessarily to do with ‘helpful content’ but is likely an indication of a willingness to consider ‘offers and promotions’. Have a read of this survey where the top responses to the question "I connect with brands on Facebook and other social networks" were:
+The response to marketing through Facebook is not necessarily to do with ‘helpful content’ but is likely an indication of a willingness to consider ‘offers and promotions’. [Have a read of this survey](http://socialmediatoday.com/steve-olenski/412114/major-disconnect-between-brands-and-consumers-when-it-comes-social-media) where the top responses to the question "I connect with brands on Facebook and other social networks" were:
 
 * For the games, contests and promotions
 * To learn about new products
@@ -38,7 +38,7 @@ The response to marketing through Facebook is not necessarily to do with ‘help
 
 Note that none of these are asking for ‘helpful content’ that is non-product-related.
 
-Reminds me of this quote from The Ad Contrarian:
+Reminds me of this quote from [The Ad Contrarian](http://adcontrarian.blogspot.co.uk/):
 
 > "We don’t get them to try our product by convincing them to love our brand. We get them to love our brand by convincing them to try our product."
 

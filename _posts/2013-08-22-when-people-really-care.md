@@ -11,7 +11,7 @@ Frack Off's Facebook Page has been heavily focused on the protests at Balcombe. 
 
 [![Frack Off](/assets/images-inline/frack-off.jpg)](/assets/images-original/frack-off-large.jpg)
 
-Compare this to Jaguar's Page. Many more people have 'Liked' the Page, over 2.2 million. 'People Talking About This' stood at 3% of those total 'Likes' on the day I checked and many of those interactions were coming from the Indian contingent that 'Like' the Page, whomsoever they may be.
+Compare this to Jaguar's Page. Many more people have 'Liked' the Page, over 2.2 million. 'People Talking About This' stood at 3% of those total 'Likes' on the day I checked. This is woeful but entirely typical of a 'brand' effort. Many of those interactions were coming from the Indian contingent that 'Like' the Page, whomsoever they may be.
 
 [![Jaguar](/assets/images-inline/jaguar.jpg)](/assets/images-original/jaguar-large.jpg)
 
