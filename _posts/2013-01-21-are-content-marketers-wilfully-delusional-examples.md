@@ -3,7 +3,7 @@ layout: post
 title: Are content marketers wilfully delusional - examples
 ---
 
-Following on from my last post in which I emphasised the importance of evidence to support your assertions I have highlighted relevant examples below.
+[Following on from my last post](http://markhigginson.co.uk/2013/01/20/are-content-marketers-wilfully-delusional/) in which I emphasised the importance of evidence to support your assertions I have highlighted relevant examples below.
 
 This chart shows the distribution of page views to articles on a content-driven site that I was peripheral to for a UK insurance business from a few years back:
 
@@ -33,7 +33,7 @@ Here are some examples of brand 'content destinations' that are completely ineff
 * mb! from Mercedes
 * Energy Forecaster from uSwitchforBusiness
 
-The mistake in each case is to assume 'if we build it they will come' and that the ‘brand’ is strong enough to own a website with a readership in line with the definition of a ‘reader’ given earlier in my last post.
+The mistake in each case is to assume 'if we build it they will come' and that the ‘brand’ is strong enough to own a website with a readership in line with the definition of a ‘reader’ given [in my last post](http://markhigginson.co.uk/2013/01/20/are-content-marketers-wilfully-delusional/).
 
 > “Technology. Business. Lifestyle. Those are the three pillars of Tech Page One’s content streams. Under those categories, we’ve commissioned and curated blog posts, in-depth articles, and infographics to keep you current on the major conversations in tech.”
 
