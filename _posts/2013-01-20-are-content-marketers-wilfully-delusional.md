@@ -13,11 +13,13 @@ I take issue with the notion of [brands as publishers](https://www.google.co.uk/
 
 The theory sounds logical. People want to be informed about the things they are interested in. Search engines reward ‘fresh’ and popular content. By creating your own content of this type on a domain you own, based on research, a ‘brand’ can attract an audience with similar ‘values’.
 
-The [Content Marketing Institute](http://contentmarketinginstitute.com/what-is-content-marketing/) says it is the “technique of creating and distributing relevant and valuable content to attract, acquire, and engage a clearly defined and understood target audience – with the objective of driving profitable customer action.”
+The [Content Marketing Institute](http://contentmarketinginstitute.com/what-is-content-marketing/) says it is the:
 
-Focus on that last point and keep it in mind as you read this. The great thing about the web is that if you have a theory about what should be done you can collect a lot of data to prove your point. What is significant is how few authors of articles that plug these services (disguised as ‘advice’) actually bother to do this and thus support their position with anything independently verifiable. For instance if you claim ‘guest blogging is an opportunity to build authority and credibility’ then you should be able to show a hundred examples of you doing this exact thing and a thousand more examples of other people doing the same, all with a measurable outcome.
+> “... technique of creating and distributing relevant and valuable content to attract, acquire, and engage a clearly defined and understood target audience – with the objective of driving profitable customer action.”
 
-Here are [a number of particularly egregious examples](http://econsultancy.com/uk/blog/63014-70-epic-content-marketing-best-practice-tips-stats-blog-posts-and-more) that are typical of the ‘tell’ rather than ‘show’ format. If it works then follow-up the tips with the results!(*)
+Focus on that last point and keep it in mind as you read this. The great thing about the web is that if you have a theory about what should be done you can collect a lot of data to prove your point. What is significant is how few authors of articles that plug these services actually bother to do this and thus support their position with anything independently verifiable. For instance if you claim ‘guest blogging is an opportunity to build authority and credibility’ then you should be able to show a hundred examples of you doing this exact thing and a thousand more examples of other people doing the same, all with a measurable outcome.
+
+Here are [a number of](http://econsultancy.com/uk/blog/63014-70-epic-content-marketing-best-practice-tips-stats-blog-posts-and-more) [particularly egregious examples](http://contentmarketinginstitute.com/developing-a-strategy/) that are typical of the ‘tell’ rather than ‘show’ format. If it works then follow-up the tips with the results!(*)
 
 What I want to test is whether this is actually viable at the scale being promoted in the quote that opens this post.
 
@@ -30,7 +32,7 @@ The assumptions I’m making are as follows:
 * Attention, like pretty much every other behaviour on the web, follows a power law distribution; for a page to be looked at it has to have links pointing to it
 * A ‘page view’ is apropos of nothing and no indication that a page has been properly looked at; readers form a tiny minority of visitors
 
-I suggest at this point reading Identifying Your Real Readers by Thomas Baekdal, who explains this in great detail. He is well worth subscribing to as his posts are always excellent.
+I suggest at this point reading [Identifying Your Real Readers](http://www.baekdal.com/insights/identifying-your-real-readers-not-just-traffic/1322A8735C24475F940B7FA779331C95B4159869BE6E5702BE016D7DCDB7A996) by Thomas Baekdal, who explains this in great detail. He is well worth subscribing to as his posts are always excellent.
 
 A reader is someone who actually reads the article, which means:
 
@@ -42,4 +44,4 @@ A reader is someone who actually reads the article, which means:
 
 In the [next part of this post](http://markhigginson.co.uk/2013/01/21/are-content-marketers-wilfully-delusional-examples/) I will cover some specific examples.
 
-(*) Oh dear. In the original version of this piece I used a post from the blog of US SEO business Blueglass as an example of what not to do. They went out of business. Apparently "BlueGlass was formed by several well-known SEO companies and personalities in the industry. It was a merger of these 'giant' names in the SEO community to form the ultimate SEO company." I guess that didn't work out so well. 
+(*) In the original version of this piece I used a post from the blog of US SEO business Blueglass, who have subsequently gone out of business, as an example of what not to do.

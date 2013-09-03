@@ -3,7 +3,7 @@ layout: post
 title: Are content marketers wilfully delusional - examples
 ---
 
-[Following on from my last post](http://markhigginson.co.uk/2013/01/20/are-content-marketers-wilfully-delusional/) in which I emphasised the importance of evidence to support your assertions I have highlighted relevant examples below.
+[Following on from my last post](http://markhigginson.co.uk/2013/01/20/are-content-marketers-wilfully-delusional/) in which I emphasised the importance of evidence to support your assertions I have provided the following for review.
 
 This chart shows the distribution of page views to articles on a content-driven site that I was peripheral to for a UK insurance business from a few years back:
 
@@ -37,7 +37,7 @@ The mistake in each case is to assume 'if we build it they will come' and that t
 
 > “Technology. Business. Lifestyle. Those are the three pillars of Tech Page One’s content streams. Under those categories, we’ve commissioned and curated blog posts, in-depth articles, and infographics to keep you current on the major conversations in tech.”
 
-The major question that should have been asked here is why, given the limited time people have, would they turn to a Dell-owned property for tech opinion when there is Engadget, Gizmodo, The Verge, et al. They won’t do it. Their Twitter profile is following more people than they have followers. The design is poor as is the use of stock photography. It is doomed.
+The major question that should have been asked here is why, given the limited time people have, would they turn to a Dell-owned property for tech opinion when there is Engadget, Gizmodo, The Verge, et al. Their Twitter profile is following more people than they have followers. The design is poor as is the use of stock photography. It is doomed.
 
 > “mb! by Mercedes-Benz is a magazine that documents and reflects contemporary culture and a clever, fun way of living. If you like personal and intelligent stories, reports and interviews as well as inspiring visuals reflecting the current Zeitgeist, then you’ll love mb!”
 
@@ -55,9 +55,9 @@ mb! is likely receiving no more than a couple of thousand visits a month in the 
 
 This site is a resource for businesses. The notion of ‘guides’ to selected topics is a good one. The idea of regular blogging by a panel of ‘industry experts’ is a good one. The idea of hosting this all on your own content destination is diabolically appalling and dooms this site to failure.
 
-The worst part of this for me is that I found this site via a blog post (since removed though [slides available here](http://www.slideshare.net/la_pope/agile-content-strategy)) about agile content strategy in which it is clear a lot of effort has gone into creating it. There was a lot of stuff around ‘thinking about the user’ with no consideration that this user is an entirely imaginary person and that, because of how attention works on the web, it is going to take vast  resources to develop a readership for this content.
+The worst part of this for me is that I found this site via a blog post (since removed though [slides available here](http://www.slideshare.net/la_pope/agile-content-strategy)) about agile content strategy in which it is clear a lot of effort has gone into creating it. There was a lot of stuff around ‘thinking about the user’ with no consideration that this user is an entirely imaginary person and that, because of how attention works on the web, it is going to take vast resources to develop a readership for this content.
 
-Apparently the site launched in May. As of writing the affiliated LinkedIn Group has 29 members, the Facebook Page has 11 Likes and the Twitter profile has only slightly more followers than followed. Many of the profiles look less than relevant (ahem). Doomed.
+Apparently the site launched in May. As of writing the affiliated LinkedIn Group has 29 members, the Facebook Page has 11 Likes and the Twitter profile has only slightly more followers than followed. Many of the profiles look less than human. Doomed.
 
 These situations have all occurred because of the vested interests that arise around a brand having a presence on the web without properly understanding whether anyone is going to be genuinely interested in coming back to these websites time and time again.
 
@@ -65,4 +65,4 @@ What is depressing is that by collaborating with independent sites that already 
 
 **tl;dr - if you are reading a post about 'content marketing' and there is no data to support the examples given then what you are reading is an anecdote. This is useless from a decision-making point-of-view. Challenge people on this, do not just accept their assertions.**
 
-(*) This figures could be inaccurate but is based on the anonymised data of the websites UK households are actually visiting taken from the records of UK ISPs.
+(*) This figures were based on the anonymised data of the websites UK households are actually visiting taken from the records of UK ISPs.
