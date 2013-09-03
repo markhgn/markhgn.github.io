@@ -7,7 +7,9 @@ title: Expect a backlash if you review your own products
 
 ### via [Daring Fireball](http://daringfireball.net/linked/2013/02/05/nokia-620)
 
-[Here is the original post on Nokia's own blog](http://conversations.nokia.com/2013/02/04/compact-vibrant-and-lots-of-fun-our-nokia-lumia-620-review/); referenced on 'Daring Fireball' under the cutting headline ‘Nokia Reviews the Nokia Lumia 620 – They like it’.
+[Here is the original post on Nokia's own blog](http://conversations.nokia.com/2013/02/04/compact-vibrant-and-lots-of-fun-our-nokia-lumia-620-review/); referenced on 'Daring Fireball' under the cutting headline:
+
+> ‘Nokia Reviews the Nokia Lumia 620 – They like it’.
 
 The ‘Conversations by Nokia’ blog is typical of the kind of misguided corporate attempt to be a content destination. I am sure this site sees significantly higher traffic than most other such places due to its subject matter being the kind of thing that riles the denizens of the internet to action but it still has the hollow ring of inauthenticity about it. Other comments on the post I refer to include:
 
