@@ -29,13 +29,13 @@ What frustrates me is how often basic and observable behaviours are ignored and 
 
 Here are some examples of brand 'content destinations' that are completely ineffective at reaching an audience. The mistake in each case is to assume 'if we build it they will come' and that the ‘brand’ is strong enough to own a website with a readership in line with the definition of a ‘reader’ given [in my last post](http://markhigginson.co.uk/2013/01/20/are-content-marketers-wilfully-delusional/).
 
-[Tech Page One](http://www.techpageone.com/) from Dell
+[Tech Page One](http://www.techpageone.com/) from Dell:
 
 > “Technology. Business. Lifestyle. Those are the three pillars of Tech Page One’s content streams. Under those categories, we’ve commissioned and curated blog posts, in-depth articles, and infographics to keep you current on the major conversations in tech.”
 
 The major question that should have been asked here is why, given the limited time people have, would they turn to a Dell-owned property for tech opinion when there is Engadget, Gizmodo, The Verge, et al. Their Twitter profile is following more people than they have followers. The design is poor as is the use of stock photography. It is doomed.
 
-[mb!](http://mb.mercedes-benz.com/en) from Mercedes
+[mb!](http://mb.mercedes-benz.com/en) from Mercedes:
 
 > “mb! by Mercedes-Benz is a magazine that documents and reflects contemporary culture and a clever, fun way of living. If you like personal and intelligent stories, reports and interviews as well as inspiring visuals reflecting the current Zeitgeist, then you’ll love mb!”
 
@@ -49,7 +49,7 @@ Frankly, I would love to run these sites for Mercedes Benz, but I could not in g
 
 mb! is likely receiving no more than a couple of thousand visits a month in the UK (*). How many are readers?
 
-[Energy Forecaster](http://www.businessjuice.co.uk/energy-forecaster) from uSwitchforBusiness
+[Energy Forecaster](http://www.businessjuice.co.uk/energy-forecaster) from uSwitchforBusiness:
 
 > “That’s why Business Juice started Energy Forecaster. We want businesses to be well-informed, well-prepared and most importantly, involved, when it comes to energy. The site is full of content that we hope will help businesses like yours get to grips with the importance of energy, and on-going changes to prices, legislation, government schemes and more.”
 

@@ -9,7 +9,7 @@ title: Are content marketers wilfully delusional
 
 Why, I wonder? To what end? Who has the time to read this stuff? Truth is almost none of these ‘meaningful’ pieces of content will ever be seen by human eyes; at least not without a massive and ongoing investment of resources with little in the way of directly measurable return. 
 
-I take issue with the notion of [brands as publishers](https://www.google.co.uk/search?q=brands+as+publishers). There seems to be an assumption that a high volume of content on a brand owned and controlled destination is desired by a web audience. There has been more excitability of late with SEOs piling-in to this area as Google has put the frighteners on other techniques for gaming the SERPs; a regular stream of content is assumed beneficial for the purposes of building links.
+I take issue with the notion of [brands as publishers](https://www.google.co.uk/search?q=brands+as+publishers) if publishing is not the core business function. There seems to be an assumption that a high volume of content on a brand owned and controlled destination is desired by a web audience. There has been more excitability of late with SEOs piling-in to this area as Google has put the frighteners on other techniques for gaming the SERPs; a regular stream of content is assumed beneficial for the purposes of building links.
 
 The theory sounds logical. People want to be informed about the things they are interested in. Search engines reward ‘fresh’ and popular content. By creating your own content of this type on a domain you own, based on research, a ‘brand’ can attract an audience with similar ‘values’.
 
@@ -19,7 +19,7 @@ The [Content Marketing Institute](http://contentmarketinginstitute.com/what-is-c
 
 Focus on that last point and keep it in mind as you read this. The great thing about the web is that if you have a theory about what should be done you can collect a lot of data to prove your point. What is significant is how few authors of articles that plug these services actually bother to do this and thus support their position with anything independently verifiable. For instance if you claim ‘guest blogging is an opportunity to build authority and credibility’ then you should be able to show a hundred examples of you doing this exact thing and a thousand more examples of other people doing the same, all with a measurable outcome.
 
-Here are [a number of](http://econsultancy.com/uk/blog/63014-70-epic-content-marketing-best-practice-tips-stats-blog-posts-and-more) [particularly egregious examples](http://contentmarketinginstitute.com/developing-a-strategy/) that are typical of the ‘tell’ rather than ‘show’ format. If it works then follow-up the tips with the results!(*)
+Here are [a number of](http://econsultancy.com/uk/blog/63014-70-epic-content-marketing-best-practice-tips-stats-blog-posts-and-more) [particularly egregious examples](http://contentmarketinginstitute.com/developing-a-strategy/) that are typical of the ‘tell’ rather than ‘show’ format. If it works then follow-up the tips with the results!
 
 What I want to test is whether this is actually viable at the scale being promoted in the quote that opens this post.
 
@@ -38,10 +38,8 @@ A reader is someone who actually reads the article, which means:
 
 * They need to scroll from the top to the bottom in a time-frame indicative of someone actually paying attention to the content contained therein 
 * They need to read several articles in a session or across multiple sessions on different devices, not just visit a single article never to return 
-* They need to consistently be a repeat visitor, this tells you they are finding the content of significant value to want to come back to refer to what they have seen and to read more
+* They need to be a repeat visitor; this tells you they are finding your content of significant value to want to come back to refer to what they have seen and to read more
 * Finally they need to have not been referred from somewhere else, they should be your readers, not someone else’s readers who are popping by for a quick look; referrals might turn into readers, but they are not yet a reader on that first visit to one article
 * A content destination is about readers not visitors or page views; it is really, really hard to develop and sustain such a space
 
-In the [next part of this post](http://markhigginson.co.uk/2013/01/21/are-content-marketers-wilfully-delusional-examples/) I will cover some specific examples.
-
-(*) In the original version of this piece I used a post from the blog of US SEO business Blueglass, who have subsequently gone out of business, as an example of what not to do.
+In the [next part of this post](http://markhigginson.co.uk/2013/01/21/are-content-marketers-wilfully-delusional-examples/) I will cover some specific examples to see if this can work for a 'brand' rather than a 'publisher'.
