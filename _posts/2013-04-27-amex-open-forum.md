@@ -5,7 +5,7 @@ title: Is the AmEx Open Forum really a community?
 
 ## AmEx's OPEN forum took four years to get 1 million people aboard and now gets over 150,000 unique visitors per month.
 
-### via [Only Dead Fish](http://neilperkin.typepad.com/only_dead_fish/2012/12/digital-content-trends-2013.html)
+### [Only Dead Fish](http://neilperkin.typepad.com/only_dead_fish/2012/12/digital-content-trends-2013.html)
 
 This quote is from a presentation about 'trends' in digital content. It was from a talk to the [Content Marketing Association](http://www.the-cma.com/) and is an example of the kind of assertion I see in many presentations of this type related to ‘brands as publishers’.
 

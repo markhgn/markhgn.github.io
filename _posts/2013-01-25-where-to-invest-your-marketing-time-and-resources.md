@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Where to invest your marketing time and reosurces
+title: Where to invest your marketing time and resources
 ---
 
 [![Marketing time and resources](/assets/images-inline/time-and-resources.jpg)](/assets/images-original/time-and-resources-original.jpg)

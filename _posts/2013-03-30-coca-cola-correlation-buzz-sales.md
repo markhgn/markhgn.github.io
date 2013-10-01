@@ -5,7 +5,7 @@ title: Coca Cola sees no correlation between 'buzz' and sales
 
 ## We didn’t see any statistically significant relationship between our buzz and our short-term sales.
 
-### via [Ad Age](http://adage.com/article/cmo-strategy/coca-cola-sees-sales-impact-online-buzz-digital-display-effective-tv/240409/)
+### [Ad Age](http://adage.com/article/cmo-strategy/coca-cola-sees-sales-impact-online-buzz-digital-display-effective-tv/240409/)
 
 The above is a quote from Eric Schimdt of Coca-Cola at a conference last week. From my own experience this is a completely correct assessment of the situation around how brands are mentioned on the web.
 

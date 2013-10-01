@@ -5,7 +5,7 @@ title: Twitter turns seven
 
 ![First tweet](/assets/images-inline/my-first-tweet.png)
 
-### via [Twitter](https://twitter.com/markhgn/statuses/1558084013)
+### [Twitter](https://twitter.com/markhgn/statuses/1558084013)
 
 Twitter has turned seven years old.
 

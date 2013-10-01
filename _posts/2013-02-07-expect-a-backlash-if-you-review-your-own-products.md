@@ -5,7 +5,7 @@ title: Expect a backlash if you review your own products
 
 ## You just reviewed your own f***ing product. Absolutely ridiculous. How stupid do you think people are?
 
-### via [Daring Fireball](http://daringfireball.net/linked/2013/02/05/nokia-620)
+### [Daring Fireball](http://daringfireball.net/linked/2013/02/05/nokia-620)
 
 [Here is the original post on Nokia's own blog](http://conversations.nokia.com/2013/02/04/compact-vibrant-and-lots-of-fun-our-nokia-lumia-620-review/); referenced on 'Daring Fireball' under the cutting headline:
 

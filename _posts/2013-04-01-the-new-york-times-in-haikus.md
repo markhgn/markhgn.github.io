@@ -5,7 +5,7 @@ title: The New York Times in haikus
 
 [![NYT haiku](/assets/images-inline/new-york-times-haiku.png)](/assets/images-original/new-york-times-haiku-original.png)
 
-### via [The New York Times](http://haiku.nytimes.com/)
+### [The New York Times](http://haiku.nytimes.com/)
 
 Headlines in a handy [haiku](http://en.wikipedia.org/wiki/Haiku) format.
 
