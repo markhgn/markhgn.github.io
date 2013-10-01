@@ -7,7 +7,7 @@ title: The fantasies and delusions of marketers
 
 ### via [The Ad Contrarian](http://adcontrarian.blogspot.co.uk/2013/05/native-advertising-traditional.html)
 
-Spot on about the ideological commitment; see the faux-naive idea of [markets as conversations](http://www.cluetrain.com/book/markets.html) for a whole lot more on what amounts to a neo-liberal capitalist ideal that was very attractive to some.
+Spot on about the ideological commitment; see the faux-naive idea of [markets as conversations](http://www.cluetrain.com/book/markets.html) for a whole lot more on what amounts to a neo-liberal ideal that was very attractive to some.
 
 What has struck me about working in the area of online marketing is both how much of my work is really about public relations and how much I had to learn given I had no prior experience in this area. What was also surprising was how traditional PR was actually based on very simple principles with a lot of meetings and handwaving to confuse the uninitiated.
 
