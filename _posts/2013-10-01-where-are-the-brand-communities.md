@@ -5,7 +5,7 @@ title: Where are the brand communities?
 
 ## Brands gather communities around them. And where there are communities, there is a need for truth. And truth makes the best stories. The true storytellers need to live in brands, and they must practice the trade made special by journalism – telling the truth of your community, and helping them tell stories.
 
-### pandodaily - [Sayonara, journalists. Pretty soon brands won’t need you](http://pandodaily.com/2013/09/26/sayonara-journalists-pretty-soon-brands-wont-need-you/)
+### Douglas Crets. [Sayonara, journalists. Pretty soon brands won’t need you](http://pandodaily.com/2013/09/26/sayonara-journalists-pretty-soon-brands-wont-need-you/) (26th September 2013). pandodaily.
 
 Terrifying yet banal writing from Douglas Crets about the contribution 'brands' can make to journalism and the art of telling a story.
 
