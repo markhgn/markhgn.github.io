@@ -5,7 +5,7 @@ title: Where are the brand communities?
 
 ## Brands gather communities around them. And where there are communities, there is a need for truth. And truth makes the best stories. The true storytellers need to live in brands, and they must practice the trade made special by journalism – telling the truth of your community, and helping them tell stories.
 
-### [pandodaily](http://pandodaily.com/2013/09/26/sayonara-journalists-pretty-soon-brands-wont-need-you/)
+### pandodaily - [Sayonara, journalists. Pretty soon brands won’t need you](http://pandodaily.com/2013/09/26/sayonara-journalists-pretty-soon-brands-wont-need-you/)
 
 Terrifying yet banal writing from Douglas Crets about the contribution 'brands' can make to journalism and the art of telling a story.
 
@@ -17,4 +17,4 @@ In the context of the rest of his post I'm not sure 'epicentre' was really the w
 
 Where is this happening? Where is the evidence for this claim?
 
-**I chose this quote because** marketers have co-opted the word community. People form communities around shared interests. Brands are symbolic representations of non-human legal entities. They cannot by definition be part of a community. I also think there is little evidence of a brand in itself being the central focus of any community.
+**I chose this quote because** marketers have co-opted the word community. People form communities around shared interests. Brands are symbolic representations of non-human legal entities. They cannot by definition be part of a community. I also think there is little evidence of a brand in itself being the central focus of any community. 
