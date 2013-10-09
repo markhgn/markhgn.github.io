@@ -17,4 +17,4 @@ In the context of the rest of his post I'm not sure 'epicentre' was really the w
 
 Where is this happening? Where is the evidence for this claim?
 
-**I chose this quote because** marketers have co-opted the word community. People form communities around shared interests - with one another. Brands are symbolic representations of non-human legal entities. They cannot by definition be part of a community. Don't make the mistake of believing a brand can be the central focus of a genuine community, unless very specific circumstances apply.
+**I chose this quote because marketers have co-opted the word community. People form communities with one another around shared interests. Brands are symbolic representations of non-human legal entities. They cannot by definition be part of a community. Don't make the mistake of believing a brand can be the central focus of a genuine community, unless very specific circumstances apply.**
