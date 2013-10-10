@@ -11,7 +11,7 @@ Terrifying yet banal writing by Douglas Crets about the contribution 'brands' ca
 
 > "To truly serve the human need to know, brands need to step into this opportunity gap to hire writers and journalists. By eliminating marketing for the sake of marketing’s goals, they need to become the new epicenters of human conscience..."
 
-In the context of the rest of his post I'm not sure 'epicentre' was really the word Douglas was looking for. Instead of this dreadful hyperbole he could more usefully start by giving us a list of all the great communities brands have gathered around them so we could go check 'em out and have our consciences put at risk. As I said in [this post](http://markhigginson.co.uk/2013/04/27/amex-open-forum/), I don't think these communities exist.
+In the context of the rest of his post I'm not sure 'epicentre' was really the word Douglas was looking for. Instead of this dreadful hyperbole he could more usefully start by giving us a list of all the great communities brands have gathered around them so we could go check 'em out. As I said in [this post](http://markhigginson.co.uk/2013/04/27/amex-open-forum/), I don't think these communities exist.
 
 > "... consumers and brands melt into each other’s spaces, because consumers are spending time with brands in an emotional way."
 
