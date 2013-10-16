@@ -5,7 +5,7 @@ title: The fantasies and delusions of marketers
 
 ## It was all fantasies and delusions based on naive interpretations of consumer behavior by people who had a whole lot of ideological commitment to the web, and very little experience with real world marketing.
 
-### [Native advertising: traditional advertising on-line](http://adcontrarian.blogspot.co.uk/2013/05/native-advertising-traditional.html) - The Ad Contrarian
+### [Native advertising: traditional advertising on-line](http://adcontrarian.blogspot.co.uk/2013/05/native-advertising-traditional.html) (The Ad Contrarian)
 
 Spot on about the ideological commitment; see the faux-naive idea of [markets as conversations](http://www.cluetrain.com/book/markets.html) for a whole lot more on what amounts to a neo-liberal ideal that was very attractive to some.
 
@@ -15,4 +15,4 @@ The wider point in the post I quote from above is that the current vogue for tal
 
 People's tolerance to advertising that appears on the web is very different, which affects implementation and performance.
 
-__I chose this quote because it rightly highlights the unspoken knowledge that most display advertising is utterly ineffective because of the restrictions of the medium. The desperate bid to dress-up advertorial as something more useful is unlikely to be any more successful.__
+__I chose this quote because it rightly highlights the unspoken knowledge that online advertising not supported by a direct user intent is largely ineffective because of the restrictions of the medium. The desperate bid to dress-up advertorial as something more useful is unlikely to be any more successful.__

@@ -17,9 +17,9 @@ However, perception is not measured in numbers of 'fans'. A statement such as "T
 
 __Things to think about: the web makes it fairly easy to check out the claims people make. Don't take what is said at face value. If there is data available see whether there is a trend. If people are able to comment on something check how many comments have been made and what they say.__
 
-(*) The video with highest number of views on the Jaguar YouTube  channel has approximately 570,000 views. It is a non-unveiling unveiling of the F-Type in that you don't get to see the car. Hard to tell but the 'statistics' are perhaps indicative of a paid-for campaign.
+(*) The video with highest number of views on the Jaguar YouTube  channel has approximately 570,000 views. It is a non-unveiling unveiling of the F-Type in that you don't get to see the car. Hard to tell but the statistics are perhaps indicative of a paid-for campaign.
 
-The Ridley Scott film scrapes 47,277 views at time-of-writing. A 'short film' is completely the wrong format for a web audience.
+The Ridley Scott film scrapes 47,277 views at time-of-writing. A short film is completely the wrong format for a web audience.
 
 The top comment says:
 
