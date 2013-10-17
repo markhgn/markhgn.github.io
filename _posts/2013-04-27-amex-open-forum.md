@@ -5,7 +5,7 @@ title: Is the AmEx Open Forum really a community?
 
 ## AmEx's OPEN forum took four years to get 1 million people aboard and now gets over 150,000 unique visitors per month.
 
-### [Only Dead Fish](http://neilperkin.typepad.com/only_dead_fish/2012/12/digital-content-trends-2013.html)
+### [Digital Content Trends](http://neilperkin.typepad.com/only_dead_fish/2012/12/digital-content-trends-2013.html) (Only Dead Fish)
 
 This quote is from a presentation about 'trends' in digital content. It was from a talk to the [Content Marketing Association](http://www.the-cma.com/) and is an example of the kind of assertion I see in many presentations of this type related to ‘brands as publishers’.
 
@@ -50,7 +50,9 @@ Interestingly there seems to be no shortage of posts congratulating AmEx on a su
 
 > "Tumblr is a vibrant channel for OPEN forum and it is increasingly becoming important for its business audience."
 
-None of those quotes are even half-way believable. It is disturbing, yet entirely typical of the marketing echo-chamber, to repeat these messages because it suits the narrative the industry wishes to create for itself. And marketers then stand up in front of audiences and propagate these messages, largely unchallenged. 
+None of those quotes are even half-way believable. 
+
+__I chose this quote because: It is disturbing, yet entirely typical of the marketing echo-chamber, to repeat these messages because it suits the narrative the industry wishes to create for itself. And marketers then stand up in front of audiences and propagate these messages, largely unchallenged.__
 
 I feel like the kid in the story of [The Emperor’s New Clothes](https://en.wikipedia.org/wiki/The_Emperor's_New_Clothes).
 
