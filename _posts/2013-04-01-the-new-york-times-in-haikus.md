@@ -5,7 +5,7 @@ title: The New York Times in haikus
 
 [![NYT haiku](/assets/images-inline/new-york-times-haiku.png)](/assets/images-original/new-york-times-haiku-original.png)
 
-### [The New York Times](http://haiku.nytimes.com/)
+### [Times Haiku](http://haiku.nytimes.com/)
 
 Headlines in a handy [haiku](http://en.wikipedia.org/wiki/Haiku) format.
 
@@ -17,4 +17,4 @@ Thing is, I generally find the title of an article to be a more than adequate su
 
 A haiku generator however... that I would pay for handsomely.
 
-**Update:** I was surprised to find that the haikus keep on coming; not sure they really [entirely fit the form](http://en.wikipedia.org/wiki/Kireji) however.
+__Update:__ I was surprised to find that the haikus keep on coming; not sure they really [entirely fit the form](http://en.wikipedia.org/wiki/Kireji) however.

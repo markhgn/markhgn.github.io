@@ -15,5 +15,5 @@ Compare this to Jaguar's Page. Many more people have 'Liked' the Page, over 2.2 
 
 [![Jaguar](/assets/images-inline/jaguar.jpg)](/assets/images-original/jaguar-large.jpg)
 
-__tl;dr 'Liking' a 'brand' is likely a signifier of something around personal identity that the individual wishes to represent. It does not appear to represent a desire for the elusive 'engagement' that marketers keep banging on about with little evidence of any success. People don't care about brands; they do care about issues. Brands are generally too bland and frequently too close to negative issues to be able to meaningfully interact with people on topics that are important to them.__
+'Liking' a 'brand' is likely a signifier of something around personal identity that the individual wishes to represent. It does not appear to represent a desire for the elusive 'engagement' that marketers keep banging on about with little evidence of any success. People don't care about brands; they do care about issues. Brands are generally too bland and frequently too close to negative issues to be able to meaningfully interact with people on topics that are important to them.
 

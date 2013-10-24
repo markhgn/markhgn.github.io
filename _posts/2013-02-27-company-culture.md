@@ -5,7 +5,7 @@ title: Company culture
 
 ## Culture is about power dynamics, unspoken priorities and beliefs, mythologies, conflicts, enforcement of social norms, creation of in/out groups and distribution of wealth and control inside companies. Culture is usually ugly. It is as much about the inevitable brokenness and dysfunction of teams as it is about their accomplishments. Culture is exceedingly difficult to talk about honestly.
 
-### [Pretty Little State Machine](http://blog.prettylittlestatemachine.com/blog/2013/02/20/what-your-culture-really-says/)
+### [What Your Culture Really Says](http://blog.prettylittlestatemachine.com/blog/2013/02/20/what-your-culture-really-says/)
  	
 Wow. The above is a from a fantastic post that questions the underlying aspects of the so-called ‘company culture’, particular the type peculiar to modern internet / technology focused businesses. I’ve even heard the phrase “we need to be more like a start-up” bandied around former workplaces, the implicit assumption being that people know what this signifies.
 

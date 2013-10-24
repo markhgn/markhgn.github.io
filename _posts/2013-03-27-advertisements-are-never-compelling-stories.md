@@ -5,9 +5,9 @@ title: Advertisements are never compelling stories
 
 ## Audiences don’t want to hear an advertisement. They want to be gripped by a compelling story.
 
-### [Say Quarterly](http://sayquarterly.com/feature-storytelling.php)
+### [The Art and Science of Great Brand Storytelling](http://sayquarterly.com/feature-storytelling.php)
 
-I spotted this post called 'The Art and Science of Great Brand Storytelling' which strangely was not in itself a great story. It was yet another promotional post for content marketing, in this case for a self-described ‘post-advertising agency’. The author states:
+This post was strangely not in itself a great story. It was yet another promotional post for content marketing, in this case for a self-described ‘post-advertising agency’. The author states:
 
 > "Audiences simply have no patience for branded messages that feel like advertising. Somehow, though, when audiences are exposed to content that is valuable, entertaining, emotive and simply enjoyable — even if it’s branded — they miraculously have as much as 30 minutes to watch. Instead of folding their arms and sitting back, audiences lean forward, open up and listen, often helping spread the message to their own audiences without prompting."
 

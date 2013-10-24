@@ -11,5 +11,5 @@ Using stories as marketing and getting people interested in the result is hard w
 
 Tumblr is getting rid of the team given the job of “highlighting talented creators and their work, as found within and around the massively diverse Tumblr community" after only one year.
 
-**Update:** [Valleywag claims](http://valleywag.gawker.com/that-horrible-tumblr-memo-was-actually-a-fired-editors-483889514) that Chris Mohney, the editor-in-chief who was getting fired, wrote the memo for David Karp annoucing the closure of Storyboard, which rather explains why it sounds the way it does.
+__Update:__ [Valleywag claims](http://valleywag.gawker.com/that-horrible-tumblr-memo-was-actually-a-fired-editors-483889514) that Chris Mohney, the editor-in-chief who was getting fired, wrote the memo for David Karp annoucing the closure of Storyboard, which rather explains why it sounds the way it does.
 

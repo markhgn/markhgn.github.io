@@ -33,4 +33,4 @@ Other immediately visible comments include:
 
 > "I ended up watching an infomercial by a corporation who spent its tax exempt money on hiring an ace director and a golden globe winning actor (who i thought had more taste and﻿ integrity--ha!) to rob me of my time. I fast forwarded and finally turned off this piece of crap. You should too."
 
-__Notes:__ There is a wider problem with Jaguar's marketing; the collaboration "with icons from British design, sport, film and music to celebrate the best of modern Britain" to support the launch of the F-Type is an ahistorical nostlagia trip that is as obvious as it is dull. [This video](http://www.youtube.com/watch?v=COxjvTJ7j_M) is not a spoof.
+__Note:__ There is a wider problem with Jaguar's marketing; the collaboration "with icons from British design, sport, film and music to celebrate the best of modern Britain" to support the launch of the F-Type is an ahistorical nostlagia trip that is as obvious as it is dull. [This video](http://www.youtube.com/watch?v=COxjvTJ7j_M) is not a spoof.
