@@ -5,7 +5,7 @@ title: Closing your eyes and wanting it to be true won't make it work
 
 ## Closing your eyes and wanting it to be true won't make it work
 
-I have been saying this for several years and end up spelling it out in simpler and simpler terms each time I say it: content marketing on the web does not work and will not work for 'brands'. I do not believe that any business can make the expenditure on the quality and quantity of content required to win significant attention pay in terms of actual sales. The argument that it 'creates awareness' is intangible, but more to the point is likewise untrue because of how attention flows on the web.
+I have been saying this for several years and end up spelling it out in simpler and simpler terms each time I say it: content marketing on the web does not work and will not work for 'brands'. I do not believe that any business can make the expenditure on the quality and quantity of content required to win significant attention pay in terms of getting people to care enough about them to turn this into sales. The argument that it 'creates awareness' is intangible, but more to the point is likewise untrue because of how attention flows on the web.
 
 This is typical of the kind of post I frequently see:
 
@@ -29,7 +29,7 @@ Have a read of this:
 
 > [Content marketing fairy dust](http://www.buzzstream.com/blog/content-marketing-fairy-dust.html)
 
-It is the sound of the slow realisation that you can create all the 'great content' you like and it will still be ignored. What the author hasn't grasped is the reason and that even with larger budgets and more time they'd still be unsuccessful because of the way attention works on the web. SEOs simply can't make things work at the scale needed to influence the search engine results pages for competitive terms that would make a difference to their clients' business through negotiating the posting one piece of content at a time on other people's websites.
+It is the sound of the slow realisation that you can create all the 'great content' you like and it will still be ignored. What the author hasn't grasped is the reason and that even with larger budgets and more time they'd still be unsuccessful because of the way attention works on the web. SEOs simply can't make things work at the scale needed to influence the search engine results pages for competitive terms that would make a difference to their clients' business through negotiating posting one piece of content at a time on other people's websites.
 
 What is interesting is the contrast between the two posts. In the former post Michael Brito is still operating under the misapprehension that a 'brand' can run a content destination that people will actually want to visit. In the latter post Paul May rightly highlights that it is all about getting your content onto other people's websites. Problem is that, because of the heavy-tail distribution, only a handful of sites will ever be receiving enough attention to be worth your while pursuing and likely understand their value all too well. This is compounded by the fact that anything you do manage to get someone else to post is unlikely to see many people following a link back to your own website where you stand a chance of getting them to take an action beneficial to your business. Check your referral data if you want confirmation of this.
 
