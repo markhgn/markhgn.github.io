@@ -5,7 +5,7 @@ title: Closing your eyes and wanting it to be true won't make it work
 
 ## Closing your eyes and wanting it to be true won't make it work
 
-I have been saying this for several years and end up spelling it out in simpler and simpler terms each time I say it: content marketing on the web does not work and will not work for 'brands'. I do not believe that any business can make the expenditure on the quality and quantity of content required to win significant attention pay in terms of getting people to care enough about them to turn this into sales. The argument that it 'creates awareness' is intangible, but more to the point is likewise untrue because of how attention flows on the web.
+I have been saying this for several years and end up spelling it out in simpler terms each time I say it: content marketing on the web does not work and will not work for 'brands'. No business can make the expenditure on the quality and quantity of content required to win significant attention pay a decent return on their investment; at least not in terms of getting people to care enough about them to turn this into sales. The argument that it 'creates awareness' is intangible, but more to the point is likewise untrue because of how attention flows on the web.
 
 This is typical of the kind of post I frequently see:
 
@@ -17,7 +17,7 @@ Attention on the web follows a heavy-tail distribution, an abrupt curve from a h
 
 Now divide all those figures by four. What you will be left with is the approximate number of people who bothered to read the whole page in each case.
 
-Now try plotting the number of people who completed a goal on each of those pages, the thing that you want each person viewing your content to do next in each case. You have set this for each page, right? Or why else would you be spending vast resources on publishing hundreds of pieces of content as recommended in the above post?
+Now try plotting the number of people who completed a goal on each of those pages; the thing that you want each person viewing your content to do next in each case. You should have set this for each page. Or why else would you be spending vast resources on publishing hundreds of pieces of content as recommended in the above post?
 
 Problem is, there is no way of predicting ahead of time which are the few posts that will do significantly better than the majority. You have to do the lot which is why this whole approach does not scale, unless of course your entire purpose is to be a content destination. It is telling that Michael Brito uses the New York Times as an example, claiming they publish over 1,500 articles per day. They are still at the mercy of that heavy-tail distribution however; it is just that their worst performing post is an order of magnitude more successful than your best performing post. 
 
@@ -29,7 +29,7 @@ Have a read of this:
 
 > [Content marketing fairy dust](http://www.buzzstream.com/blog/content-marketing-fairy-dust.html)
 
-It is the sound of the slow realisation that you can create all the 'great content' you like and it will still be ignored. What the author hasn't grasped is the reason why. Even with larger budgets and more time they'd still be unsuccessful because of the way attention works on the web. The SEO industry simply can't scale what it does in a safe way to influence competitive terms any more through negotiating the posting of one piece of content at a time on other people's websites.
+It is the sound of the slow realisation that you can create all the 'great content' you like and it will still be ignored. What the author hasn't grasped is the reason why. Even with larger budgets and more time they'd still be unsuccessful because of the way attention works on the web. These days the SEO industry simply can't scale what it does in a safe way to influence competitive terms. Individually negotiating the posting of one piece of content at a time on other people's websites is too time-consuming to meet their needs, but this is what they have been reduced to persuading clients to buy into as 'content marketing' of one stripe or another.
 
 What is interesting is the contrast between the two posts. In the former post Michael Brito is still operating under the misapprehension that a 'brand' can run a content destination that people will actually want to visit. In the latter post Paul May rightly highlights that it is all about getting the content itself onto the wider web. Problem is that, because of the heavy-tail distribution, only a handful of sites will ever be receiving enough attention to be worth your while pursuing. These hubs likely understand their value all too well. This is compounded by the fact that anything you do manage to get someone else to post is unlikely to see many people following a link back to your own website. This means you stand little chance of getting them to take an action beneficial to your business. Check your referral data if you want confirmation of this.
 
