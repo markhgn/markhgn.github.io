@@ -5,11 +5,11 @@ title: Are content marketers wilfully delusional - examples
 
 [Following on from my last post](http://markhigginson.co.uk/2013/01/20/are-content-marketers-wilfully-delusional/) in which I emphasised the importance of evidence to support your assertions I have provided the following for review.
 
-This chart shows the distribution of page views to articles on a content-driven site that I was peripheral to for a UK insurance business from a few years back:
+I've looked at the analytics of all sorts of websites. The chart below shows a typical distribution of page views to posts on a site set-up as a 'content destination':
 
 [![Posts against views](/assets/images-inline/posts-by-views.png)](/assets/images-original/posts-by-views-original.png)
 
-The site was about 'green' issues and followed a blog-style format on which several posts a week appeared. The salient points are:
+This particular site followed a blog-style format on which several posts a week appeared. The salient points are:
 
 * In over 600 posts in over two-and-a-half years only one post came close to breaking 10,000 page views 
 * The second most popular post received just under half as many page views
@@ -17,9 +17,7 @@ The site was about 'green' issues and followed a blog-style format on which seve
 * New visitors made up greater than 80% of the audience, which means there were no real readers
 * People visited once, frequently looking at just one page, and did not come back
 
-I do not have the data to tell how many were 'readers' as this was not defined at the time but it is clear the format was not working at attracting this kind of an audience, despite that being the intent.
-
-The thing was, the content was great! There were no pushy sales messages. It was that elusive thing: ‘quality content’ professionally produced. And no one cared.
+I do not have the data to tell how many were 'readers' as this was not defined at the time but it was clear the format was not working at attracting an audience, despite that being the intent. This was a shame as the content being posted was great! There were no pushy sales messages. It was that elusive thing: ‘quality content’ professionally produced. And no one cared.
 
 It was this observation that set me off investigating this pattern, especially as clients were being advised to spend their budgets on content that was not specifically about their core products or services. This project was the first of several, for very different brands, that demonstrated the same pattern of audience behaviour, for which I have the data. This formed the basis of my view that generalising about ‘brands as publishers’ on the web, along with the volume of content production that implies, is not a sustainable approach. Yet many marketers are recommending precisely this even though it will not help meet business objectives. This distribution is not a one-off and is a pattern followed by all content destinations, the difference is that successful sites receive massively higher amounts of attention and possess a regular readership, something that requires both significant resources and a perception of independence by the audience. At higher volumes the pattern still exists, but the critical mass of readers sustains even the long-tail of content being created.
 
