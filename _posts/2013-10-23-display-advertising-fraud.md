@@ -3,7 +3,7 @@ layout: post
 title: Fake traffic makes a quarter of display advertising a fraud
 ---
 
-## "... fake traffic is essentially systemic to online advertising — it’s part of how the business works."
+## ... fake traffic is essentially systemic to online advertising — it’s part of how the business works.
 
 ### [The Amount of Questionable Online Traffic Will Blow Your Mind](http://www.adweek.com/news/technology/amount-questionable-online-traffic-will-blow-your-mind-153083)
 
