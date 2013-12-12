@@ -3,7 +3,7 @@ layout: post
 title: The ruination of the web
 ---
 
-## To spawn the next Facebook or Twitter, first launch a start-up contest. Promise the winner a sizeable equity investment, say £1m ($1.6m), and let firms from all over the world compete.
+## To spawn the next Facebook or Twitter, first launch a start-up contest. Promise the winner a sizeable equity investment, say £1m, and let firms from all over the world compete.
 
 [Start me up](http://www.economist.com/news/britain/21587268-cluster-start-ups-east-london-thriving-all-they-need-now-big-success-start-me-up?fsrc=scn/tw/te/pe/startmeup) (The Economist)
 
@@ -13,7 +13,7 @@ The former motivation, that of a desire to provide a useful service, is to be la
 
 > "... we wanted to create something that affected people in a positive way. Something they had an emotional connection with. Something they trusted." 
 
-... something which they can now [no longer use](http://www.usesold.com/).
+Something which they can now [no longer use](http://www.usesold.com/).
 
 This is why my own level of trust in new services is very low; it is also why I blog here rather than the attractive looking Medium, whose future [path to profit](http://techcrunch.com/2013/09/14/twitter-co-founder-evan-williams-lays-out-his-vision-for-medium/) is a mystery but I suspect will somehow be at the expense of all those currently creating the value through writing and attracting readers to their posts.
 
