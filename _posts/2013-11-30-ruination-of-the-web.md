@@ -5,7 +5,7 @@ title: The ruination of the web
 
 ## To spawn the next Facebook or Twitter, first launch a start-up contest. Promise the winner a sizeable equity investment, say £1m, and let firms from all over the world compete.
 
-[Start me up](http://www.economist.com/news/britain/21587268-cluster-start-ups-east-london-thriving-all-they-need-now-big-success-start-me-up?fsrc=scn/tw/te/pe/startmeup)
+### [Start me up](http://www.economist.com/news/britain/21587268-cluster-start-ups-east-london-thriving-all-they-need-now-big-success-start-me-up?fsrc=scn/tw/te/pe/startmeup)
 
 This is the culture that has ruined the social facet of the web. Becoming successful, in terms of attracting a large number of people to actively use your service regularly, is enormously difficult. Further to that, if you're goal is to have a [profitable business](http://www.theatlantic.com/technology/archive/2012/02/heres-the-number-that-matters-in-facebooks-ipo-filing/252471/) then you're looking at achieving the near impossible. Of course, this isn't the intent of most 'start-ups'. The game is to flip the business; an expanding userbase gives the business [a notional worth](http://www.theverge.com/2013/10/7/4812080/twitter-ipo-boom-growth-profits) which may attract investment on the basis that yet more investment might be attracted at a later date with the potential for a sale to a larger business, or in the rarest of cases, a flotation.
 
