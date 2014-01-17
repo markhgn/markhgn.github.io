@@ -56,5 +56,3 @@ __tl;dr It is disturbing, yet entirely typical of the marketing echo-chamber, to
 
 I feel like the kid in the story of [The Emperor’s New Clothes](https://en.wikipedia.org/wiki/The_Emperor's_New_Clothes).
 
-**Update:** I checked back on the Facebook Page and of the 815 people 'talking about this' most are from the city of Lagos. I remain unconvinced.
-

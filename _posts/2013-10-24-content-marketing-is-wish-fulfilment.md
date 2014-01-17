@@ -47,5 +47,3 @@ Other relevant posts written by me:
 * [Are content marketers wilfully delusional? Part two](http://markhigginson.co.uk/2013/01/21/are-content-marketers-wilfully-delusional-examples/)
 * [Where to invest your marketing time and resources](http://markhigginson.co.uk/2013/01/25/where-to-invest-your-marketing-time-and-resources/)
 * [Is the AmEx Open Forum really a community?](http://markhigginson.co.uk/2013/04/27/amex-open-forum/)
-
-__Note:__ I don't know if you've ever suffered through Jonathan Mildenhall's buzzword-laden [Coca-Cola Content 2020 video](http://www.youtube.com/watch?v=LerdMmWjU_E) but it's worth remembering that it's over two years old. Marketers got very excited at the time, yet I haven't heard of this being re-visited to show us what content was produced as a result and how successful each piece of work was. Subsequent presentations have focused on typical brand marketing stunts, with no supporting data provided.
