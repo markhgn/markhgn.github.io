@@ -3,9 +3,7 @@ layout: post
 title: Elephants in the room
 ---
 
-## Elephants in the room.
-
-### [Why Instagram Is So Popular: Quality, Audience, & Constraints](http://techcrunch.com/2011/11/27/why-instagram-is-so-popular/)
+## Elephants in the room
 
 Seth Godin [notes](http://sethgodin.typepad.com/seths_blog/2011/11/the-largest-independent-content-sites.html) that Quantcast will show you the [top one million websites](http://www.quantcast.com/top-sites) in the US ordered by volume of traffic received. He also reminds us that because attention on the web follows a power law distribution "the top 100 sites account for a huge amount of overall web traffic; probably more than the next 900 sites combined."
 
