@@ -9,7 +9,7 @@ title: Elephants in the room
 
 Seth Godin [notes](http://sethgodin.typepad.com/seths_blog/2011/11/the-largest-independent-content-sites.html) that Quantcast will show you the [top one million websites](http://www.quantcast.com/top-sites) in the US ordered by volume of traffic received. He also reminds us that because attention on the web follows a power law distribution "the top 100 sites account for a huge amount of overall web traffic; probably more than the next 900 sites combined."
 
-_This is significant because it is easy to see how the majority of available attention is concentrated in relatively few places._
+__This is significant because it is easy to see how the majority of available attention is concentrated in relatively few places.__
 
 I first witnessed the consequences of this first-hand on a project from about five years ago. We built a site and the audience simply didn’t come. In the immortal words of a past client, "This ain’t no field of dreams."
 
