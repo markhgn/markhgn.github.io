@@ -9,4 +9,4 @@ title: What is 'mobile' anyway?
 
 I’ve sat through presentations over the years where ‘experts’ have touted the ‘year of mobile’. I was probably looking at a site on my phone while this was happening and thinking that I just didn’t understand the distinction.
 
-For certain very few and highly regular activities, like checking Twitter, I use an app. For everything else I use the a web browser. The device is irrelevant to me as a user.
+For certain very few and highly regular activities, like checking Twitter, I use an app. For everything else I use a web browser. The device is largely irrelevant to me as a user.
