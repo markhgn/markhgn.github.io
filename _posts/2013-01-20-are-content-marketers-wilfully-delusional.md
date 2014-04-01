@@ -40,6 +40,7 @@ A reader is someone who actually reads the article, which means:
 * They need to read several articles in a session or across multiple sessions on different devices, not just visit a single article never to return 
 * They need to be a repeat visitor; this tells you they are finding your content of significant value to want to come back to refer to what they have seen and to read more
 * Finally they need to have not been referred from somewhere else, they should be your readers, not someone else’s readers who are popping by for a quick look; referrals might turn into readers, but they are not yet a reader on that first visit to one article
-* A content destination is about readers not visitors or page views; it is really, really hard to develop and sustain such a space
+
+A content destination is about readers not visitors or page views. It is a really difficult challenge to develop and sustain such a space. Not even professional publishers are succeeding at making it work profitably.
 
 In the [next part of this post](http://markhigginson.co.uk/2013/01/21/are-content-marketers-wilfully-delusional-examples/) I will cover some specific examples to see if this can work for a 'brand' rather than a 'publisher'.
