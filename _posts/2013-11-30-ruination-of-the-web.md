@@ -21,3 +21,5 @@ This is why my own level of trust in new services is very low; it is also why I 
 > ### Evan Williams
 
 How reassuring.
+
+This post makes further interesting points: [The Problem With Profitless Start-ups](http://nymag.com/daily/intelligencer/2014/04/problem-with-profitless-start-ups.html)
