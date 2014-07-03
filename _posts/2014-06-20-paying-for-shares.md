@@ -15,4 +15,4 @@ I signed-up for Coca-Cola's site for soccer fans, built on a generic community p
 
 Compared to when I last checked OPEN forum's top posts are getting thousands of shares... but only on LinkedIn. If you dig deeper the majority of posts see the same complete lack of activity. My suspicion is that whoever is running the site is throwing money at promoting a small selection of posts. The Facebook Page achieves less than 0.1% of followers 'talking about' its content.
 
-If paying to be liked is what social media has been reduced to then there is no point. It is disingenuous fto keep repeating this message that people have any interest in being part of brand-created 'communities'.
+Full disclosure: I think if paying to be liked is what social media has been reduced to then there is no point. It is disingenuous to keep repeating this message that people have any interest in being part of brand-created 'communities'.
