@@ -13,4 +13,4 @@ Here's part of the base column of items I knocked up from the [Faculty of Arts G
 
 For those not comfortable with the markup it's the kind of thing an hours training would solve. The ability to reformat the supplied embeds to better fit the design of a site would be an improvement as, for example, I'm unhappy with the borders on the images in portrait format on the #gradshow14 piece.
 
-That was the super-easy part. Far more important was preparing to cover the event itself. I'm going to put up another post with a link to download my guide to live-tweeting an event in the next couple of days.
+That was the super-easy part. Far more important was preparing to cover the event itself. Get in touch with me if you'd like my guide to live-tweeting an event and I'll send you a copy.
