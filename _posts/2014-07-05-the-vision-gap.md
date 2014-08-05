@@ -6,7 +6,7 @@ title: The vision gap
 ## We’re a business, and if this wasn’t successful we would pull the plug. That we’re expanding this program as fast as possible should tell you something.
 ### [Should Coca-Cola quit its content marketing journey?](http://sparksheet.com/should-coca-cola-quit-its-content-marketing-journey/)
 
-The above is a reference to my popular piece on Coca-Cola’s content marketing that popped up [in a presentation](http://brilliantnoise.com/vision-gap-notes-video-content-strategy-webinar/) by local Brighton agency Brilliant Noise recently. Bizarrely they chose a quote Ashley Brown, former group director of digital communications at Coca-Cola, left in the comments on my piece to substantiate their point-of-view that brands should be churning out content. 
+The above is a reference to my popular piece on Coca-Cola’s content marketing that popped up [in a presentation](http://www.donotlink.com/brilliantnoise.com/vision-gap-notes-video-content-strategy-webinar/) by local Brighton agency Brilliant Noise recently. Bizarrely they chose a quote Ashley Brown, former group director of digital communications at Coca-Cola, left in the comments on my piece to substantiate their point-of-view that brands should be churning out content. 
 
 It’s a somewhat circular argument given that businesses do unsuccessful things all the time when they don’t understand the facts of the situation, which is what my original post had evidenced. Simply, the biggest obstacles aren’t 'leadership, operations and content systems' as stated in the presentation but entrenched viewpoints. If you’re job is to sell the idea of ‘content marketing’ as a solution to fragmenting attention then you’re part of the problem and no amount of data is going to convince you otherwise.
 

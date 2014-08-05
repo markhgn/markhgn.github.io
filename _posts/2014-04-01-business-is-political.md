@@ -11,4 +11,4 @@ OkCupid have [weighed in](http://valleywag.gawker.com/okcupid-blocks-firefox-ove
 
 You could argue this is a fantastic piece of marketing by OkCupid. Their business is inclusivity and here they get to underline their values in opposition to those of Mozilla's CEO. That said, I'm interested to know what the drop-off rate is for Firefox users clicking away from OkCupid as a result.
 
-This stance is interesting as pretty much all businesses maintain an apolitical veneer. This is of course completely disingenuous as being in business is a political act, often framed by and contributing to the dominant discourse.
+This stance is interesting as pretty much all businesses maintain an apolitical veneer. This is of course completely disingenuous as being in business is a political act, framed by and contributing to the dominant discourse.
