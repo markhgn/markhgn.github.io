@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Attention on the web is like the weather
+title: Attention is like weather
 ---
 
-## Attention on the web is like the weather.
+## Attention is like weather.
 
 These tweets from [Mat Honan](https://twitter.com/mat/) are completely true. To my eyes attention on the web is like a weather system. There are larger forces making it all work that while we can grasp the fundamental rules the subtleties of all this in effect lie just outside our ability to predict what might happen.
 
