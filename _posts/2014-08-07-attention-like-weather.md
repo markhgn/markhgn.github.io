@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Best work ever
+title: Attention on the web is like the weather
 ---
 
-## Writing for the web.
+## Attention on the web is like the weather.
 
-These tweets from [Mat Honan](https://twitter.com/mat/) are completely true. To my eyes attention on the web is like a weather system. 
+These tweets from [Mat Honan](https://twitter.com/mat/) are completely true. To my eyes attention on the web is like a weather system. There are larger forces making it all work that while we can grasp the fundamental rules the subtleties of all this in effect lie just outside our ability to predict what might happen.
 
 <blockquote class="twitter-tweet" lang="en"><p>The thing about writing for the web is, you never know what&#39;s going to hit</p>&mdash; mat honan (@mat) <a href="https://twitter.com/mat/statuses/497233939681923072">August 7, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -25,4 +25,4 @@ This is why I rail against posts with titles like these:
 
 Ain't gonna happen.
 
-I need to invent a neologism - something meteorological applied to the study of network effects on the web that includes the randomness of it all.
+I need to invent a neologism &#8211; something meteorological applied to the study of network effects on the web that includes the randomness of it all.
