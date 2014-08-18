@@ -13,4 +13,6 @@ A Russian soldier's [geotagged selfies](http://petapixel.com/2014/08/01/soldiers
 
 A militant group [using their social media followers](http://www.theatlantic.com/international/archive/2014/06/isis-iraq-twitter-social-media-strategy/372856/) to intimidate the population of a city on which they are advancing.
 
+A team of civilians [operating a 1970s NASA satellite](http://betabeat.com/2014/08/civilians-in-abandoned-mcdonalds-seize-control-of-wandering-space-satellite/) out of an abandoned fast food diner.
+
 The future is here and is being distributed whether we like it or not.
