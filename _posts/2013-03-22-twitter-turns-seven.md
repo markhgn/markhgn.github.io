@@ -3,9 +3,8 @@ layout: post
 title: Twitter turns seven
 ---
 
-![First tweet](/assets/images-inline/my-first-tweet.png)
-
-### [Twitter](https://twitter.com/markhgn/statuses/1558084013)
+<blockquote class="twitter-tweet" lang="en"><p>It is better to remain silent and be thought a fool, than to open your mouth and remove all doubt.</p>&mdash; Mark Higginson (@markhgn) <a href="https://twitter.com/markhgn/statuses/1558084013">April 19, 2009</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Twitter has turned seven years old.
 
