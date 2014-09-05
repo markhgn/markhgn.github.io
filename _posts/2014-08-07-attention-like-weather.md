@@ -18,7 +18,6 @@ These tweets from [Mat Honan](https://twitter.com/mat/) are completely true. To 
 
 This is why I rail against posts with titles like these:
 
-* 'Xxxxx' lays out content formula
 * 5 Content Marketing Strategies You Should Implement Today
 * Ten Rules for Mythic Content Marketing
 * 7 Ways to Generate Ideas for Shareable Content
