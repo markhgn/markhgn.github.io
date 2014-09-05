@@ -17,8 +17,10 @@ Furthermore only 0.02% achieved 10,000 to 100,000 interactions.
 
 0.0005% achieved over 100,000 interactions. Five ten-thousandths of a percent!
 
-Marketing is about delivering a relevant message. Easy to do for those who have shown prior interest who've given you appropriate contact information, but to achieve greater visibility among those unaware of your message you need to have the reach in order to stand any chance of being seen. The implication here is that relying on social sharing to deliver that at scale is a terrifically difficult proposition.
+Marketing is about delivering a relevant message. Easy to do for those who show intent or have indicated prior interest, but to achieve greater awareness you need to have massive reach in order to stand any chance of being seen. The implication here is that relying on social sharing to deliver that at scale is a terrifically difficult proposition.
 
 This is what I have said repeatedly, all along.
 
-However, the same site also carries posts such as this: [People Are Sharing More News Than Ever On Facebook](http://blog.newswhip.com/index.php/2014/07/news-sharing-on-facebook). From this it is easy to look at the numbers and commit the logical fallacy that this means that __your__ stories stand a greater chance of receiving a slice of this attention. In actual fact you already have to be one of the 'winners' in as much if you aren't already a major hub the chances of your content being shared is approaching zero and even you are a major publisher you'll still be subject to the brutal effect of the long tail.
+However, the same site also carries posts such as this: [People Are Sharing More News Than Ever On Facebook](http://blog.newswhip.com/index.php/2014/07/news-sharing-on-facebook). From this it is easy to look at the numbers and commit the logical fallacy that this means that __your__ stories stand a greater chance of receiving a slice of this attention. In actual fact you already have to be one of the 'winners' in as much if you aren't already a major hub the chances of your content being shared is approaching zero. Even you're a major publisher you'll still be subject to the brutal effect of the long tail. 
+
+This is why 'brand' content destinations [are a terrible idea](http://sparksheet.com/should-coca-cola-quit-its-content-marketing-journey/).
