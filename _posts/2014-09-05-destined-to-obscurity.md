@@ -21,6 +21,6 @@ Marketing is about delivering a relevant message. Easy to do for those who show 
 
 This is what I have said repeatedly, all along.
 
-However, the same site also carries posts such as this: [People Are Sharing More News Than Ever On Facebook](http://blog.newswhip.com/index.php/2014/07/news-sharing-on-facebook). From this it is easy to look at the numbers and commit the logical fallacy that this means that __your__ stories stand a greater chance of receiving a slice of this attention. In actual fact you already have to be one of the 'winners' in as much if you aren't already a major hub the chances of your content being shared is approaching zero. Even you're a major publisher you'll still be subject to the brutal effect of the long tail. 
+However, the same site also carries posts such as this: [People Are Sharing More News Than Ever On Facebook](http://blog.newswhip.com/index.php/2014/07/news-sharing-on-facebook). From this it is easy to look at the numbers and commit the logical fallacy that this means that __your__ stories stand a greater chance of receiving a slice of this attention. In actual fact you already have to be one of the 'winners' in as much if you aren't already a major hub the chances of your content being shared is approaching zero. Even if you're a major publisher you'll still be subject to the brutal effect of the long tail. 
 
 This is why 'brand' content destinations [are a terrible idea](http://sparksheet.com/should-coca-cola-quit-its-content-marketing-journey/).
