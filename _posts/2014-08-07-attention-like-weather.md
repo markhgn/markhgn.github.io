@@ -23,5 +23,3 @@ This is why I rail against posts with titles like these:
 * 7 Ways to Generate Ideas for Shareable Content
 
 Ain't gonna happen.
-
-I need to invent a neologism &#8211; something meteorological applied to the study of network effects on the web that expresses the seeming randomness of it all.
