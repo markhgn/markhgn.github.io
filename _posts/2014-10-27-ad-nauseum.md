@@ -3,7 +3,7 @@ layout: post
 title: Ad nauseum
 ---
 
-## Working in coordination with Ad Block Plus, AdNauseam quietly clicks every blocked ad, registering a visit on the ad networks databases.
+## Working in coordination with Ad Block Plus, AdNauseam quietly clicks every blocked ad, registering a visit on the ad networks' databases.
 
 ### [Clicking ads so you don’t have to](https://github.com/dhowe/AdNauseam/wiki/About-AdNauseum)
 
@@ -16,13 +16,13 @@ Given this extension requires AdBlock Plus and [adblocking has gone mainstream](
 * Rising to 41% of 18 to 29 year olds
 * Rising to 54% of males in this age group
 
-In Europe anywhere up to 1-in-3 users are utilising adblockers with 15% of UK internet users availing themselves of this technology &#8211; especially among the more technically able where users who download and install an alternative browser are five times more likely to also use an adblocker.
+This is incredible. Furthermore, in Europe anywhere up to 1-in-3 users are utilising adblockers with 15% of UK internet users availing themselves of this technology &#8211; especially among the more technically able where users who download and install an alternative browser are five times more likely to also use an adblocker.
 
 The [response from a marketer](http://www.cmo.com/articles/2014/10/14/a_lesson_for_digital.html) is predictably delusional:
 
 > "... successful ad campaigns for producers that are viewed as neither intrusive nor annoying by consumers... must involve such tactics as improving ad targeting, increasing the variability of ad content, and diversification across ad forms."
 
-People's motivation is simple: they don't like advertising.
+People's motivation is simple: they don't like advertising. Once an adblocker is installed they aren't coming back.
 
 
 
