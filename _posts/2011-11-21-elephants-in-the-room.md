@@ -9,7 +9,7 @@ Seth Godin [notes](http://sethgodin.typepad.com/seths_blog/2011/11/the-largest-i
 
 __This is significant because it is easy to see how the majority of available attention is concentrated in relatively few places.__
 
-I first witnessed the consequences of this first-hand on a project from about five years ago. We built a site and the audience simply didn’t come. In the immortal words of a past client, "This ain’t no field of dreams."
+I first witnessed the consequences of this first-hand on a project from about five years ago. We built a site and people didn’t come. In the immortal words of a past client, "This ain’t no field of dreams."
 
 What I’ve seen in agency-land is an evolution of the ‘landing pages for SEO’ approach into something called [content strategy](http://en.wikipedia.org/wiki/Content_strategy). Elements of this are fine; the thinking about what you want to say should come before deciding how you are going to say it. The reason for saying it on your own website bears closer analysis however especially if "the purpose of content strategy has also been described as achieving business goals by maximizing the impact of content."
 

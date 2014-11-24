@@ -9,7 +9,7 @@ title: Are content marketers wilfully delusional
 
 Why, I wonder? To what end? Who has the time to read this stuff? Truth is almost none of these ‘meaningful’ pieces of content will ever be seen by human eyes; at least not without a massive and ongoing investment of resources with little in the way of directly measurable return. 
 
-I take issue with the notion of [brands as publishers](https://www.google.co.uk/search?q=brands+as+publishers) if publishing is not the core business function. There seems to be an assumption that a high volume of content on a brand owned and controlled destination is desired by a web audience. There has been more excitability of late with SEOs piling-in to this area as Google has put the frighteners on other techniques for gaming the SERPs; a regular stream of content is assumed beneficial for the purposes of building links.
+I take issue with the notion of [brands as publishers](https://www.google.co.uk/search?q=brands+as+publishers) if publishing is not the core business function. There seems to be an assumption that a high volume of content on a brand owned and controlled destination is desired by web users. There has been more excitability of late with SEOs piling-in to this area as Google has put the frighteners on other techniques for gaming the SERPs; a regular stream of content is assumed beneficial for the purposes of building links.
 
 The theory sounds logical. People want to be informed about the things they are interested in. Search engines reward ‘fresh’ and popular content. By creating your own content of this type on a domain you own, based on research, a ‘brand’ can attract an audience with similar ‘values’.
 

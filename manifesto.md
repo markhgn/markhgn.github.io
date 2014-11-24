@@ -1,0 +1,20 @@
+---
+layout: post
+title: Manifesto
+---
+
+I dislike most of the adverts I see and I expect you do too.
+
+In that case it may seem odd that my job is within the wider field of marketing. I prefer to emphasise my specialism — which is 'conversion optimisation’. I define this as being more than about things like design and usability but about the wider significance of associations with a brand or product. The essence of my work is the question of what prompts a person to make an informed decision and how to assist that process.
+
+I’m not interested in interrupting people, as per ‘traditional' adveritising, but in permissive and shared forms of marketing; people who have expressed an intention we can satisfy or had a positive experience they would recommend to others.
+
+This has been termed social media: the process by which a piece of content attracts attention that can be signified to others through interaction with that content.
+
+Here’s what I said about the web’s impact on this:
+
+> "In simplistic terms we’ve always known people talk about the decisions they make in their lives... the shift has been that technology has turned what was once ephemeral into something that is publicly searchable and retrievable, amplifying the potential effect of an opinion to include groups of people potentially only tangentially related to one another... as well as allowing these opinions to persist over time, e.g. through related web searches."
+
+It’s a powerful way of raising awareness and developing loyalty. It doesn’t replace advertising but can make it cleverer; it also makes marketing overall a more creative and better informed endeavour.
+
+Please <a href="http://www.outtosea.co.uk/">get in touch</a> if you’d like to know more.
