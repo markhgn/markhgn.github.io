@@ -17,5 +17,5 @@ Despite all of this advertising spending online continues to grow. The reason is
 
 > ### [Bots Now Outnumber Humans on the Web](http://www.wired.com/2014/12/bots-now-outnumber-humans-web/)
 
-The Google research referenced in the first quote [can be found here](http://think.storage.googleapis.com/docs/the-importance-of-being-seen_study.pdf).
+The Google research referenced in the headline quote [can be found here](http://think.storage.googleapis.com/docs/the-importance-of-being-seen_study.pdf).
 

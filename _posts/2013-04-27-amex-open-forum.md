@@ -38,19 +38,19 @@ Their [YouTube Channel](http://www.donotlink.com/www.youtube.com/user/americanex
 On this evidence I would be very cautious about using this as a good example. Yet here we have someone standing up in front of a bunch of people and repeating unreferenced ‘facts’ to support an argument.
 Interestingly there seems to be no shortage of posts congratulating AmEx on a successful job despite no verifiable evidence this site is working as a community or content destination:
 
-[American Express OPEN keeps 'pulse' on small business with social media](http://www.zdnet.com/blog/feeds/american-express-open-keeps-pulse-on-small-business-with-social-media/2019)
-
 > "Beginning in 2007, OPEN forum established itself as a leading source of business insight and advice."
 
-[What Amercian Express' Open can teach us about social media](http://www.fastcompany.com/1669407/what-american-expresss-open-can-teach-us-about-social-media)
+> ### [American Express OPEN keeps 'pulse' on small business with social media](http://www.zdnet.com/blog/feeds/american-express-open-keeps-pulse-on-small-business-with-social-media/2019)
 
 > "This enlightened perspective has made OpenForum.com a runaway success."
 
-[AMEX OPEN Forum taps New York City's startup community](http://thenextweb.com/insider/2011/11/04/amex-open-forum-taps-new-york-citys-startup-community/)
+> ### [What Amercian Express' Open can teach us about social media](http://www.fastcompany.com/1669407/what-american-expresss-open-can-teach-us-about-social-media)
 
 > "Tumblr is a vibrant channel for OPEN forum and it is increasingly becoming important for its business audience."
 
-None of those quotes are even half-way believable. 
+> ### [AMEX OPEN Forum taps New York City's startup community](http://thenextweb.com/insider/2011/11/04/amex-open-forum-taps-new-york-citys-startup-community/)
+
+None of these quotes are believable. 
 
 __tl;dr It is disturbing, yet entirely typical of the marketing echo-chamber, to repeat these messages because it suits the narrative the industry wishes to create for itself. And marketers then stand up in front of audiences and propagate these messages, largely unchallenged.__
 
