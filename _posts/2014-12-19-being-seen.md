@@ -9,13 +9,13 @@ title: Being seen
 
 Despite all of this advertising spending online continues to grow. The reason is that those ads which are seen generate a perceived return, based on the measurement criteria being used to evaluate performance.
 
-> Bot fraud, digital advertising's albatross, will suck $6.3 billion from the industry next year.
+> “Bot fraud, digital advertising's albatross, will suck $6.3 billion from the industry next year.”
 
-### [Nearly 25% of Video Ad Views Are Fraudulent, and 6 Other Alarming Stats](http://www.adweek.com/news/technology/7-things-you-need-know-about-bots-are-threatening-ad-industry-161849)
+> ### [Nearly 25% of Video Ad Views Are Fraudulent, and 6 Other Alarming Stats](http://www.adweek.com/news/technology/7-things-you-need-know-about-bots-are-threatening-ad-industry-161849)
 
-> The total percentage of bot-related web traffic is actually down this year from what it was in 2013. Back then it accounted for 60 percent of the traffic, 4 percent more than today.
+> “The total percentage of bot-related web traffic is actually down this year from what it was in 2013. Back then it accounted for 60 percent of the traffic, 4 percent more than today.”
 
-### [Bots Now Outnumber Humans on the Web](http://www.wired.com/2014/12/bots-now-outnumber-humans-web/)
+> ### [Bots Now Outnumber Humans on the Web](http://www.wired.com/2014/12/bots-now-outnumber-humans-web/)
 
 The Google research referenced in the first quote [can be found here](http://think.storage.googleapis.com/docs/the-importance-of-being-seen_study.pdf).
 

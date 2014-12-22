@@ -21,5 +21,3 @@ Advertising tracker use is related to league table position. The median value fo
 
 Amazingly nearly a quarter of UK universities run no other trackers besides Google Analytics. Nothing to assist with usability testing or any kind of conversion optimisation.
 
-More to come.
-
