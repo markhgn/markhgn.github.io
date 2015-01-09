@@ -17,7 +17,7 @@ I didn’t expect it to fold [so quickly](http://www.theverge.com/2014/12/2/7324
 
 That quote is from Joe Pulizzi of the inappropriately named ‘Content Marketing Institute’. Of course he’s going to suggest this type of work should be a long-term commitment. In actual fact the real question is why, given the number of popular tech news sites that are already in existence, run by media companies, a [censored corporate version](http://www.theverge.com/2014/10/28/7086791/verizon-is-scared-of-the-truth) from a telecommunications business could hope to attract a readership.
 
-“Verizon put the corporate agenda ahead of the journalism agenda, when that happens, it gets out, discredits and ultimately kills the publication.”
+> “Verizon put the corporate agenda ahead of the journalism agenda, when that happens, it gets out, discredits and ultimately kills the publication.”
 
 So said Rebecca Lieb, an analyst at Altimeter Group. This is incorrect. Sugarstring had zero credibility to begin with and was never going to gain any.
 
