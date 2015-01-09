@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Digital is not original
-—
+---
 
 ## Digital is about reproducing something so it’s exact. Media is about making something original.
 
