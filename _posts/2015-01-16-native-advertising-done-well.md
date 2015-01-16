@@ -15,14 +15,22 @@ They ran a [second advert](http://www.reddit.com/comments/2fzqs7/a_new_invitatio
 
 Their [follow-up about their experience](http://www.reddit.com/r/selfserve/comments/2laczf/were_pact_coffee_one_of_uks_first_advertisers_on/) was a clever move; r/selfserve is the subreddit for people who want to advertise on reddit so sharing this in the spirit of the community. 
 
-With the New Year [they are back for more](http://www.reddit.com/comments/2r3mgz/uk_reddit_offer_a_new_way_to_drink_great_coffee/); I signed-up recently myself. Clearly there are dimninishing returns in terms of interactions with other redditors but it would be interesting to know the amount of business this generated.
+With the New Year [they are back for more](http://www.reddit.com/comments/2r3mgz/uk_reddit_offer_a_new_way_to_drink_great_coffee/); I signed-up recently myself. 
+
+Clearly there are dimninishing returns in terms of interactions with other redditors but it would be interesting to know the amount of business this generated.
 
 Responses like this are gold:
 
 [![Pact Coffee reddit comments](/assets/images-inline/pact-coffee-comment.png)](/assets/images-original/pact-coffee-comment-original.png)
 
-What I like about the most recent advert is how well it suits the platform and how this medium suits Pact far better than a banner advert ever would:
+What I like about the most recent advert is how well it suits the platform. This medium suits Pact far better than a banner advert or a piece of advertorial ever would.
 
-It's longform, they strike the right tone of voice and they lay out their offer in a clear and direct way. They say who they are and what they do, focusing on the benefits of the service they offer. A nice touch is they reference the comments on their first very successful post.
+* It's longform
+* In the right tone of voice
+* The offer is clear and direct
+* They say who they are and what they do
+* They focus on the benefits of their service
+
+A nice touch is they reference the comments on their first very successful post.
 
 Ultimately omfgcoffee is a redditor who is promoting what they do rather than Pact appearing as a brand using reddit for advertising. And that is the note you want to hit without lookng like you're trying to hit it.
