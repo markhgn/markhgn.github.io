@@ -13,7 +13,7 @@ Pact Coffee [first advertised on reddit](http://www.reddit.com/comments/23y39g/a
 
 They ran a [second advert](http://www.reddit.com/comments/2fzqs7/a_new_invitation_to_uk_redditors_what_does_really/) more recently which caused a few problems as new customers were being offered a very nice Hario V60 dripper -- existing customers were a little aggrieved. Pact [handled it well](http://blog.pactcoffee.com/2014/08/12/v60-balls-up-an-apology-and-a-cracking-offer-for-existing-customers/).
 
-Their [follow-up about their experience](http://www.reddit.com/r/selfserve/comments/2laczf/were_pact_coffee_one_of_uks_first_advertisers_on/) was a clever move; r/selfserve is the subreddit for people who want to advertise on reddit so sharing this in the spirit of the community. 
+Their [follow-up about their experience](http://www.reddit.com/r/selfserve/comments/2laczf/were_pact_coffee_one_of_uks_first_advertisers_on/) was a clever move; r/selfserve is the subreddit for people who want to advertise on reddit so sharing this is in the spirit of the community. 
 
 With the New Year [they are back for more](http://www.reddit.com/comments/2r3mgz/uk_reddit_offer_a_new_way_to_drink_great_coffee/); I signed-up recently myself. 
 
@@ -25,7 +25,7 @@ Responses like this are gold:
 
 What I like about the most recent advert is how well it suits the platform. This medium suits Pact far better than a banner advert or a piece of advertorial ever would.
 
-* It's longform
+* It's longform (for an ad)
 * In the right tone of voice
 * The offer is clear and direct
 * They say who they are and what they do
