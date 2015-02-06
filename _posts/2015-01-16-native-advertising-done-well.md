@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Native advertising done well
+title: Native advertising done well.
 ---
 
 ## Native advertising done well
