@@ -14,7 +14,7 @@ The Guardian article cites NTV as a source but neither major news hub provides a
 
 Compare this to Jalopnik's post: [Massive Japanese crash claims eight Ferraris, three Benzes, and a Lamborghini](http://jalopnik.com/5864856/massive-japanese-crash-claims-eight-ferraris-three-benzes-and-a-lamborghini). The post contains an embedded YouTube video from Asahi News as well as links to additional coverage.
 
-![Ferrari pile-up](/assets/images-inline/ferrari.png)
+![Ferrari pile-up](/assets/images-inline/ferrari.jpg)
 
 ### Photo from [@cancim95](http://twitpic.com/7nyeca) via [Jalopnik](http://jalopnik.com/5864856/massive-japanese-crash-claims-eight-ferraris-three-benzes-and-a-lamborghini)
 
