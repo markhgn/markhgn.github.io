@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Native advertising done well.
+title: Native advertising done well
 ---
 
-## Native advertising done well
+## Native advertising done well.
 
 [![Pact Coffee reddit advert](/assets/images-inline/pact-coffee.png)](/assets/images-original/pact-coffee-original.png)
 
