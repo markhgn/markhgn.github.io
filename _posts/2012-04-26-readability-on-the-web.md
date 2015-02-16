@@ -3,7 +3,7 @@ layout: post
 title: Readability on the web
 ---
 
-![Readability](/assets/images-inline/column.png)
+![Readability](/assets/images-inline/readability.png)
 
 On the left is one of my favourite websites, Suck.com, as it looked from back when I used to read it in the mid-1990s.
 
