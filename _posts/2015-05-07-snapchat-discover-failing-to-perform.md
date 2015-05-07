@@ -11,7 +11,7 @@ I said back in February:
 
 > "I don't think Snapchat's users will have any long-term interest in the new 'Discover' feature. It's more brand marketing fantasyland stuff."
 
->[Snapchat Discover](http://markhigginson.co.uk/2015/02/16/snapchat-discover/)
+> ### [Snapchat Discover](http://markhigginson.co.uk/2015/02/16/snapchat-discover/)
 
 Compare this to the breathless reception from other quarters:
 
