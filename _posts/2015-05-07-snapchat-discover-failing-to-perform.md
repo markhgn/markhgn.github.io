@@ -24,3 +24,7 @@ Less than three months later it seems 'Discover' is failing to perform:
 > "Snapchat's curated selection of news stories called Discover is reportedly in trouble, with traffic dropping significantly since its debut back in January."
 
 > ### [Snapchat adds sharing tools to its news discovery portal](http://www.engadget.com/2015/05/06/shapchat-share-discover-news/)
+
+Let's ask the users:
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">But has anyone actually asked the teens? My 15-year-old sister on Snapchat Discover: 2/2 <a href="http://t.co/Yl08Zr08JP">pic.twitter.com/Yl08Zr08JP</a></p>&mdash; Julia Greenberg (@julia_greenberg) <a href="https://twitter.com/julia_greenberg/status/563498622671519746">February 6, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
