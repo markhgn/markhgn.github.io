@@ -5,7 +5,7 @@ title: Is the AmEx Open Forum really a community?
 
 ## AmEx's OPEN forum took four years to get 1 million people aboard and now gets over 150,000 unique visitors per month.
 
-### [Digital Content Trends 2013](rel="nofollow" http://neilperkin.typepad.com/only_dead_fish/2012/12/digital-content-trends-2013.html)
+### [Digital Content Trends 2013](http://www.donotlink.com/neilperkin.typepad.com/only_dead_fish/2012/12/digital-content-trends-2013.html)
 
 This quote is from a presentation about 'trends' in digital content. It was from a talk to the [Content Marketing Association](http://www.donotlink.com/www.the-cma.com/) and is an example of the kind of assertion I see in many presentations of this type related to ‘brands as publishers’.
 
@@ -13,7 +13,7 @@ The inference of the above is that AmEx is running a successful content destinat
 
 Click. On to the next slide. But wait. Is this true? Is the presenter simply confirming a bias they already hold and members of the CMA are likely to have?
 
-Let us visit AmEx’s [OpenForum](http://www.donotlink.com/www.openforum.com/).
+Let us visit AmEx’s [OpenForum](http://www.openforum.com/).
 
 > "OPEN forum is an online community for business owners, connecting them with insights, advice, and tools to help them manage and grow their companies."
 
