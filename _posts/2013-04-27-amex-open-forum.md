@@ -36,6 +36,7 @@ Their [Twitter Profile](http://twitter.com/openforum) has 189,815 followers yet 
 Their [YouTube Channel](http://www.youtube.com/user/americanexpressOPEN/videos?view=0&sort=p&flow=grid) has one very popular video with over 7,000,000 views yet the next most popular video only has 38,000; views then fall off a cliff. Judging from the stats this was because they probably paid for the bulk of those several million views on the top video. Anytime you see a chart that looks like a rocket lift-off and then a flat-line is a dead giveaway.
 
 On this evidence I would be very cautious about using this as a good example. Yet here we have someone standing up in front of a bunch of people and repeating unreferenced ‘facts’ to support an argument.
+
 Interestingly there seems to be no shortage of posts congratulating AmEx on a successful job despite no verifiable evidence this site is working as a community or content destination:
 
 > "Beginning in 2007, OPEN forum established itself as a leading source of business insight and advice."
