@@ -20,7 +20,8 @@ These places are also the antithesis of a hub. Consider the following:
 'Success' is undefined in this context. The only example linked to in the piece quoted above is <a href="https://www.snickers.com/" rel="nofollow">the Snickers website</a>. You should visit it, then ask yourself:
 
 > Why would I go back?<br />
-> Would I share anything on this site with my friends?
+> Would I share anything on this site with my friends?<br />
+> Where on earth is the 'community'?
 
 I think I know the answer and I think you know the answer too. We don’t have to guess though. Using a service such as [Ahrefs](https://ahrefs.com/site-explorer) we can see what content on this domain is linked to or shared.
 
