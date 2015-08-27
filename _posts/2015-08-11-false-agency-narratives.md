@@ -27,7 +27,7 @@ I think I know the answer and I think you know the answer too. We don’t have t
 
 In the post the author suggests that due to social platforms forcing ‘brands’ to spend money to reach people then brands must ‘own’ their ‘content’ on their own 'hub'. He then goes on to suggest the challenge is then getting people to visit these hubs… by using paid media such as that provided by Google, Facebook and Twitter.
 
-Check out the <a href="https://twitter.com/SNICKERS" rel="nofollow">Snickers Twitter account</a>a>. This is not a platform that restricts ‘organic reach’. 203,000 followers yet the ‘favourites’ and ‘retweets’ barely ever top double figures.
+Check out the <a href="https://twitter.com/SNICKERS" rel="nofollow">Snickers Twitter account</a>. This is not a platform that restricts ‘organic reach’. 203,000 followers yet the favourites and retweets barely ever top double figures.
 
 A couple of years back <a href="http://markhigginson.co.uk/2013/08/21/how-many-cars-do-you-sell-in-new-delhi/">I took apart</a> a previous presentation by We Are Social about work performed for Jaguar you can read here. They’d claimed that Jaguar was the third most engaged with UK brand on Facebook. I pointed out that most popular city for ‘fans’ of the Page was New Delhi and wondered how many cars Jaguar sold there annually.
 
