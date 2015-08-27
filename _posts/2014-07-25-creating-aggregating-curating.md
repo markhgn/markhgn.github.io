@@ -11,6 +11,4 @@ Fortunately the major platforms make embedding content trivially easy; just sele
 
 Here's part of the base column of items I knocked up from the [Faculty of Arts Graduate Show 2014](http://markhigginson.co.uk/pages/gradshow14_test.html) ready to be dropped into a suitable template within the dreaded CMS.
 
-For those not comfortable with the markup it's the kind of thing an hours training would solve. The ability to reformat the supplied embeds to better fit the design of a site would be an improvement as, for example, I'm unhappy with the borders on the images in portrait format on the #gradshow14 piece.
-
-That was the super-easy part. Far more important was preparing to cover the event itself. Get in touch with me if you'd like my guide to live-tweeting an event and I'll send you a copy.
+For those not comfortable with the markup it's the kind of thing an hours training would solve; that's the super-easy part. Far more important was preparing to cover the event itself. Get in touch with me if you'd like my guide to live-tweeting an event and I'll send you a copy.
