@@ -11,9 +11,9 @@ Here’s an example of how agencies still want their clients to believe notions 
 
 The statement above is presented with no supporting evidence. ‘Micro-sites’ have been de rigeur for years now. It’s what agencies always do because of the associated planning, design, build and marketing fees. They also don’t work, appearing and disappearing as campaigns start and end, failing to sustain interest.
 
-You can read [my award-winning post](http://sparksheet.com/should-coca-cola-quit-its-content-marketing-journey/) about Coca-Cola’s attempt to build a hub, with supporting data, here. It has an interesting set of comments.
+For more on this read [my award-winning post](http://sparksheet.com/should-coca-cola-quit-its-content-marketing-journey/) about Coca-Cola’s attempt to build a 'hub', with supporting data, and in particular do refer to the comments.
 
-These places are also the antithesis of a hub. Consider the following:
+These places are the antithesis of a hub. Consider the following:
 
 > "Snickers and Pepsi have both created successful content hubs, where their communities can go to add, discover, and share content."
 
@@ -23,7 +23,7 @@ These places are also the antithesis of a hub. Consider the following:
 > Would I share anything on this site with my friends?<br />
 > Where on earth is the 'community'?
 
-I think I know the answer and I think you know the answer too. We don’t have to guess though. Using a service such as [Ahrefs](https://ahrefs.com/site-explorer) we can see what content on this domain is linked to or shared.
+We know the answer and we don’t have to guess. Using a service such as [Ahrefs](https://ahrefs.com/site-explorer) we can see what content on this domain is linked to or shared.
 
 In the post the author suggests that due to social platforms forcing ‘brands’ to spend money to reach people then brands must ‘own’ their ‘content’ on their own 'hub'. He then goes on to suggest the challenge is then getting people to visit these hubs… by using paid media such as that provided by Google, Facebook and Twitter.
 
