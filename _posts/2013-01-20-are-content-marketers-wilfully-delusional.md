@@ -7,11 +7,11 @@ title: Are content marketers wilfully delusional
 
 ### [Fast Company](http://www.fastcocreate.com/1679997/how-percolate-helps-brands-like-amex-and-ge-become-always-on-content-publishers)
 
-Why, I wonder? To what end? Who has the time to read this stuff? Truth is almost none of these ‘meaningful’ pieces of content will ever be seen by human eyes; at least not without a massive and ongoing investment of resources with little in the way of directly measurable return. 
+Why, I wonder? To what end? Who has the time to read this stuff? Truth is almost none of these ‘meaningful’ items will ever be seen by human eyes; at least not without a massive and ongoing investment of resources with little in the way of a directly measurable return. 
 
-I take issue with the notion of [brands as publishers](https://www.google.co.uk/search?q=brands+as+publishers) if publishing is not the core business function. There seems to be an assumption that a high volume of content on a brand owned and controlled destination is desired by web users. There has been more excitability of late with SEOs piling-in to this area as Google has put the frighteners on other techniques for gaming the SERPs; a regular stream of content is assumed beneficial for the purposes of building links.
+I take issue with the notion of [brands as publishers](https://www.google.co.uk/search?q=brands+as+publishers) if publishing is not the core business function. There seems to be an assumption that a high volume of publishing to a brand owned and controlled destination is desired by web users. There has been more excitability of late with SEOs piling into this area as Google has put the frighteners on other techniques for gaming the SERPs; a regular stream of items is assumed beneficial for the purposes of 'link building'.
 
-The theory sounds logical. People want to be informed about the things they are interested in. Search engines reward ‘fresh’ and popular content. By creating your own content of this type on a domain you own, based on research, a ‘brand’ can attract an audience with similar ‘values’.
+The theory sounds logical. People want to be informed about the things they are interested in. Search engines reward ‘fresh’ and popular pages. By creating your own pages of this type on a domain you own, based on research, a ‘brand’ can attract people with these interests.
 
 The [Content Marketing Institute](http://contentmarketinginstitute.com/what-is-content-marketing/) says it is the:
 
@@ -25,22 +25,22 @@ What I want to test is whether this is actually viable at the scale being promot
 
 The assumptions I’m making are as follows:
 
-* A brand creates content to fulfill a business objective, be it to affect perception, better inform a prospect of the features of a product, to deal with common customer questions; this is the ‘marketing’ part of ‘content marketing’
-* To achieve this objective the content must reach a significant audience, i.e. a lot of the ‘right’ people for your product or service, or people those people listen to
-* This particular content we’re discussing is not a product description on a page at the point-of-sale, it is generally additional content such as that which appears on the ‘company blog’, a micro-site, sub-domain or similar
-* Given this content costs money to both produce and then support there is a point at which the audience it serves is too small for it to be cost-effective to bother devoting the resources to producing that content
-* Attention, like pretty much every other behaviour on the web, follows a power law distribution; for a page to be looked at it has to have links pointing to it
+* A brand publishes items to web pages to fulfill business objectives, be it to affect perception, better inform a prospect of the features of a product, to deal with common customer questions, etc. This is the ‘marketing’ part of ‘content marketing’
+* To achieve this objective a significant number of people must read these pages, or the messages carried by these pages must be discussed by people to whom your potential customers will listen
+* These pages we’re discussing are not product descriptions at the point-of-sale, they are additional pieces of marketing such as that which appears on the ‘company blog’, a micro-site, sub-domain or similar
+* Given this costs money to both produce and then support there is a point at which the number of people that see it are too few in number for it to be cost-effective to bother devoting the resources to producing it
+* Attention, like pretty much every other behaviour on the web, follows a long tail distribution; for a page to be looked at it has to have links pointing to it
 * A ‘page view’ is apropos of nothing and no indication that a page has been properly looked at; readers form a tiny minority of visitors
 
-I suggest at this point reading [Identifying Your Real Readers](http://www.baekdal.com/insights/identifying-your-real-readers-not-just-traffic/1322A8735C24475F940B7FA779331C95B4159869BE6E5702BE016D7DCDB7A996) by Thomas Baekdal, who explains this in great detail. He is well worth subscribing to as his posts are always excellent.
+I suggest reading [Identifying Your Real Readers](http://www.baekdal.com/insights/identifying-your-real-readers-not-just-traffic/1322A8735C24475F940B7FA779331C95B4159869BE6E5702BE016D7DCDB7A996) by Thomas Baekdal, who explains this in great detail. He is well worth subscribing to as his posts are excellent.
 
 A reader is someone who actually reads the article, which means:
 
-* They need to scroll from the top to the bottom in a time-frame indicative of someone actually paying attention to the content contained therein 
-* They need to read several articles in a session or across multiple sessions on different devices, not just visit a single article never to return 
-* They need to be a repeat visitor; this tells you they are finding your content of significant value to want to come back to refer to what they have seen and to read more
-* Finally they need to have not been referred from somewhere else, they should be your readers, not someone else’s readers who are popping by for a quick look; referrals might turn into readers, but they are not yet a reader on that first visit to one article
+* They need to scroll from the top to the bottom in a time-frame indicative of someone actually paying attention to what's on the page
+* They need to read several pages in a session or across multiple sessions on different devices, not just visit a single page never to return 
+* They need to be a repeat visitor; this tells you they are finding what's on offer of significant value to want to come back to refer to what they have seen and to read more
+* Finally they need to have not been referred from somewhere else, they should be your readers, not someone else’s readers who are popping by for a quick look; referrals might turn into readers, but they are not yet a reader on that first visit to a single page
 
-A content destination is about readers not visitors or page views. It is a really difficult challenge to develop and sustain such a space. Not even professional publishers are succeeding at making it work profitably.
+A destination wesbite is about readers not visitors or page views. It's a really difficult challenge to develop and sustain such a space. Not even professional publishers are succeeding at making it work profitably.
 
 In the [next part of this post](http://markhigginson.co.uk/2013/01/21/are-content-marketers-wilfully-delusional-examples/) I will cover some specific examples to see if this can work for a 'brand' rather than a 'publisher'.
