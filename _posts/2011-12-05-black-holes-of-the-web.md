@@ -3,7 +3,7 @@ layout: post
 title: Black holes of the web
 ---
 
-## Commercial content hubs are the black holes of the web.
+## Commercial publishers are the black holes of the web.
 
 There are countless examples of this, but here is one a couple of friends highlighted earlier today:
 
@@ -18,7 +18,7 @@ Compare this to Jalopnik's post: [Massive Japanese crash claims eight Ferraris, 
 
 ### Photo from [@cancim95](http://twitpic.com/7nyeca) via [Jalopnik](http://jalopnik.com/5864856/massive-japanese-crash-claims-eight-ferraris-three-benzes-and-a-lamborghini)
 
-The web allows us to do more than simply regurgitate other people's content as our own yet the idea of linking out, a fundamental principle of being a good web citizen, sticks in the craw of traditional media outlets. This is why I refer to such hubs as 'black holes'; you can only detect them by the links going in and there's a complete absence of anything coming out.
+The web allows us to do more than simply regurgitate other people's posts as our own yet the idea of linking out, a fundamental principle of being a good web citizen, sticks in the craw of traditional media outlets. This is why I refer to such hubs as 'black holes'; you can only detect them by the links going in and there's a complete absence of anything coming out.
 
 This is an inevitable function of the commercial pattern these sites follow. Their audience is the product they have to monetise, i.e. by selling this data to advertisers in some shape or form. They believe that links out become leaks where attention can seep away and thus money evaporate.
 
