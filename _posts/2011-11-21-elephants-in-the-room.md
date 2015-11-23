@@ -11,7 +11,7 @@ __This is significant because it is easy to see how the majority of available at
 
 I first witnessed the consequences of this first-hand on a project from about five years ago. We built a site and people didn’t come. In the immortal words of a past client, "This ain’t no field of dreams."
 
-What I’ve seen in agency-land is an evolution of the ‘landing pages for SEO’ approach into something called '[content strategy]'(http://en.wikipedia.org/wiki/Content_strategy). Elements of this are fine; the thinking about what you want to say should come before deciding how you are going to say it. The reason for saying it on your own website bears closer analysis however, especially if "the purpose of content strategy has also been described as achieving business goals by maximizing the impact of content."
+What I’ve seen in agency-land is an evolution of the ‘landing pages for SEO’ approach into something called [content strategy](http://en.wikipedia.org/wiki/Content_strategy). Elements of this are fine; the thinking about what you want to say should come before deciding how you are going to say it. The reason for saying it on your own website bears closer analysis however, especially if "the purpose of content strategy has also been described as achieving business goals by maximizing the impact of content."
 
 We went through a period where the notion that ‘freshness’ counts for search rankings resulted in a lot of pages being generated that were at worst designed only to be read by [spiders](http://en.wikipedia.org/wiki/Web_crawler) and at best only got read by spiders, no matter how ‘useful’ or ‘relevant’ to its intended audience they were.
 
