@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Advertisements are never compelling stories
+title: Advertisements are compelling stories
 ---
 
 ## Audiences don’t want to hear an advertisement. They want to be gripped by a compelling story.
@@ -17,4 +17,4 @@ No supporting evidence is supplied beyond links to a few big-budget campaigns, t
 
 If you are going to claim something works universally then show it working, repeatedly, at scale.
 
-I do not doubt a story can be an advert for something; but is the story incidental to the advert or the advert incidental to the story?
+I don't doubt a story can be an advert &#8212; a really great advert is a compelling story.
