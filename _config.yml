@@ -5,5 +5,5 @@ url: "http://markhigginson.co.uk/"
 
 paginate: 5
 
-markdown: rdiscount
+markdown: kramdown
 permalink: pretty
