@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Capsule content: Bat for Lashes
+title: Bat for Lashes
 ---
 
 [![Natasha Khan](/assets/images-inline/natasha-khan.jpg)](/assets/images-original/natasha-khan-original.jpg)
