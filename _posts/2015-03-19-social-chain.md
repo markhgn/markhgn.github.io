@@ -35,4 +35,4 @@ Ultimately Social Chain isn’t marketing to young people. It’s marketing to m
 
 > “There's no bigger sucker than a gullible marketer convinced they're missing a trend.”
 
-Update: I've reinstated this post as of March 2016. I took it down a few months ago after Steve Bartlett of the Social Chain got in touch with me on Twitter and claimed it contained inaccuracies. I asked him to send me corrections and offered him a right-of-reply and promptly forgot all about it but seeing as he not only failed to get back in touch but then deleted those tweets I can only assume there is nothing in dispute.
+__Update:__ I've reinstated this post as of March 2016. I took it down a few months ago after Steve Bartlett of the Social Chain got in touch with me on Twitter and claimed it contained inaccuracies. I asked him to send me corrections and offered him a right-of-reply and promptly forgot all about it. Seeing as he not only failed to get back in touch but then deleted those tweets I can only assume there is nothing in dispute.
