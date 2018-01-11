@@ -3,9 +3,9 @@ layout: post
 title: A pox on the web
 ---
 
-## If you’re unknown, social media buttons make you look like a dog waiting for the crumbs from the table.
+### If you’re unknown, social media buttons make you look like a dog waiting for the crumbs from the table.
 
-### [Sweep the Sleaze](http://ia.net/blog/sweep-the-sleaze/)
+#### [Sweep the Sleaze](http://ia.net/blog/sweep-the-sleaze/)
 
 As I have grown older I have come to appreciate that one of the great gifts of age is a sense of perspective that, if cultivated, is useful in examining all sorts of things that seem like received wisdom, whether seemingly relevant or not.
 

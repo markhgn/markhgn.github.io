@@ -3,9 +3,9 @@ layout: post
 title: Digital is not original
 ---
 
-## Digital is about reproducing something so it’s exact. Media is about making something original.
+### Digital is about reproducing something so it’s exact. Media is about making something original.
 
-### [Michael Wolff on digital media in 2015: ‘A deluge of crap’](http://digiday.com/publishers/michael-wolff-digital-media-2015-deluge-crap/)
+#### [Michael Wolff on digital media in 2015: ‘A deluge of crap’](http://digiday.com/publishers/michael-wolff-digital-media-2015-deluge-crap/)
 
 The whole article I’ve taken the above quote from is great.
 

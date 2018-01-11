@@ -3,9 +3,9 @@ layout: post
 title: Nescafé
 ---
 
-## At present, Nescafé.com plays host to a wincingly earnest collection of visual puns and feel-good images designed to promote the company's coffee, however the hope is that, over time, it will be the brand's fans that populate its content grid.
+### At present, Nescafé.com plays host to a wincingly earnest collection of visual puns and feel-good images designed to promote the company's coffee, however the hope is that, over time, it will be the brand's fans that populate its content grid.
 
-### <a href="http://www.theverge.com/2015/9/15/9329287/nescafe-tumblr-brand-website" rel="nofollow">Nescafé declares the brand website 'dead' as it moves to Tumblr</a>
+#### <a href="http://www.theverge.com/2015/9/15/9329287/nescafe-tumblr-brand-website" rel="nofollow">Nescafé declares the brand website 'dead' as it moves to Tumblr</a>
 
 Nescafé has changed <a href="http://www.nescafe.com" rel="nofollow">its website</a>. It’s based on tumblr and features a load of ‘content’ squares that can be clicked on. They announced this by saying “the brand is looking to engage in owned media territory”. Whatever that means.
 

@@ -5,7 +5,7 @@ title: Searches for tumblr exceed those for blog
 
 ![Ablogalypse](/assets/images-inline/xkcd.png)
 
-### [Ablogalypse](http://xkcd.com/1043/)
+#### [Ablogalypse](http://xkcd.com/1043/)
 
 Searches for 'tumblr' to eclipse searches for 'blog'.
 

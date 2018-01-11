@@ -3,9 +3,9 @@ layout: post
 title: Are content marketers wilfully delusional
 ---
 
-## According to Percolate founder Noah Brier, in the next few years brands should expect to post 40 to 60 pieces of meaningful — not just promotional — content a day.
+### According to Percolate founder Noah Brier, in the next few years brands should expect to post 40 to 60 pieces of meaningful — not just promotional — content a day.
 
-### [Fast Company](http://www.fastcocreate.com/1679997/how-percolate-helps-brands-like-amex-and-ge-become-always-on-content-publishers)
+#### [Fast Company](http://www.fastcocreate.com/1679997/how-percolate-helps-brands-like-amex-and-ge-become-always-on-content-publishers)
 
 Why, I wonder? To what end? Who has the time to read this stuff? Truth is almost none of these ‘meaningful’ items will ever be seen by human eyes; at least not without a massive and ongoing investment of resources with little in the way of a directly measurable return. 
 

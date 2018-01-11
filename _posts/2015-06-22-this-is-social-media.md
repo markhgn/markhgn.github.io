@@ -3,9 +3,9 @@ layout: post
 title: This is social media
 ---
 
-## Most of their customers preferred to add the salespeople on WeChat directly rather than follow the official store account.
+### Most of their customers preferred to add the salespeople on WeChat directly rather than follow the official store account.
 
-### [Pictures of Chinese People Scanning QR Codes](https://medium.com/chrysaora-weekly/pictures-of-chinese-people-scanning-qr-codes-a564047ec58f)
+#### [Pictures of Chinese People Scanning QR Codes](https://medium.com/chrysaora-weekly/pictures-of-chinese-people-scanning-qr-codes-a564047ec58f)
 
 I haven't seen enough research to know if this is a cultural peculiarity. Certainly the approach of Western brands is wedded to a broadcast model, unless specifically dealing with customer service issues where an individual representing the business may identify themselves. 
 

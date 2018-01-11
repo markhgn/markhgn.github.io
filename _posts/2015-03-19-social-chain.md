@@ -3,7 +3,7 @@ layout: post
 title: Social Chain
 ---
 
-## One link is not a chain.
+### One link is not a chain.
 
 Last week I was at [Youth Marketing Strategies 2015](http://www.voxburner.com/events/yms15/home) and saw a presentation from a business called Social Chain, given by the 22 year old Steve Bartlett. I mention his age because this was repeatedly emphasised, given their promise of access to the elusive ‘youth market’ with a ‘reach’ of a claimed 128,302,222 followers. The reaction of many in the audience was positive, given the popularity of the narrative of the young entrepreneur. However, as experienced marketers when something looks too good to be true it behooves further investigation.
 

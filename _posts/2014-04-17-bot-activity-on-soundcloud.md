@@ -3,9 +3,9 @@ layout: post
 title: Bot activity on SoundCloud
 ---
 
-## ... we’re seeing a trend of these accounts supporting a cluster of records that other accounts support, and no account activity before or after this immediate activity.
+### ... we’re seeing a trend of these accounts supporting a cluster of records that other accounts support, and no account activity before or after this immediate activity.
 
-### [Has SoundCloud Created Their Own Bots to Sway Numbers on Selected Accounts?](http://doandroidsdance.com/features/soundcloud-bots-sway-numbers/)
+#### [Has SoundCloud Created Their Own Bots to Sway Numbers on Selected Accounts?](http://doandroidsdance.com/features/soundcloud-bots-sway-numbers/)
 
 The linked post highlights suspicious accounts that follow, like, play and repost content on SoundCloud. Where high numbers are seen as 'better' it is inevitable that automated services will be developed to game these figures.
 

@@ -3,7 +3,7 @@ layout: post
 title: Individualised knowledge
 ---
 
-## In the online world, businesses have the opportunity to develop very deep relationships with customers, both through accepting preferences of customers and then observing their purchase behavior over time, so that you can get that individualized knowledge of the customer and use that individualized knowledge of the customer to accelerate their discovery process.
+### In the online world, businesses have the opportunity to develop very deep relationships with customers, both through accepting preferences of customers and then observing their purchase behavior over time, so that you can get that individualized knowledge of the customer and use that individualized knowledge of the customer to accelerate their discovery process.
 
 This is a quote I come back to time and again. That was Jeff Bezos speaking in an interview in 1998, well before 'social media' was a twinkle in the marketer's eye. Yet the understanding encapsulated here demonstrates perfectly Bezos' grasp on what makes the web particularly special and useful to business, whatever you may think of what Amazon and Bezos have wrought.
 

@@ -3,9 +3,9 @@ layout: post
 title: Avoid agencies for projects with long-term value
 ---
 
-## Over the last year or so, we’ve been very aggressively, proactively cutting down on agency retainers not only because we have the cost pressures everybody does, but also why should we be paying agencies for them to take that knowledge? There’s no real long-term value for Nokia. The right investment is for us to have the right people internally.
+### Over the last year or so, we’ve been very aggressively, proactively cutting down on agency retainers not only because we have the cost pressures everybody does, but also why should we be paying agencies for them to take that knowledge? There’s no real long-term value for Nokia. The right investment is for us to have the right people internally.
 
-### [How to build a social brand: The Nokia case study](http://econsultancy.com/uk/blog/62030-how-to-build-a-social-brand-the-nokia-case-study)
+#### [How to build a social brand: The Nokia case study](http://econsultancy.com/uk/blog/62030-how-to-build-a-social-brand-the-nokia-case-study)
 
 The above is a quote from Tejal Patel of Nokia. She is spot on. If you are committing effort to your presence on the web and people’s perception of you as shaped by that presence then in my opinion you need a team with an implicit sense of:
 

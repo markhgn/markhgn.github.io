@@ -3,9 +3,9 @@ layout: post
 title: House of Cards
 ---
 
-## Netflix has confirmed that they intend to pay for House of Cards a new show being produced by David Fincher (yes, he of Fight Club, The Social Network, etc) and starring Kevin Spacey (yes, he of The Usual Suspects, American Beauty, etc).
+### Netflix has confirmed that they intend to pay for House of Cards a new show being produced by David Fincher (yes, he of Fight Club, The Social Network, etc) and starring Kevin Spacey (yes, he of The Usual Suspects, American Beauty, etc).
 
-### [Netflix Original Content Is Much More Than A Strategy Shift — It Could Shift An Industry](http://techcrunch.com/2011/03/18/killing-cable/)
+#### [Netflix Original Content Is Much More Than A Strategy Shift — It Could Shift An Industry](http://techcrunch.com/2011/03/18/killing-cable/)
 
 There are so many series this would work for, e.g. AMC’s The Walking Dead would have translated to being delivered this way no problem, the forthcoming Game of Thrones from HBO would work too. 
 

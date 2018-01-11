@@ -3,9 +3,9 @@ layout: post
 title: Getting called out
 ---
 
-## While we're a good-natured group, we have serious respect for designers and inventors alike, and we want to make sure the design community – including everyone involved with Quirky – has all of the information needed to understand what's going on.
+### While we're a good-natured group, we have serious respect for designers and inventors alike, and we want to make sure the design community – including everyone involved with Quirky – has all of the information needed to understand what's going on.
 
-### [OXO, Crooks and Robbers...?](http://www.oxo.com/quirkyresponse.aspx) via [Baby Got Brooms](http://www.metafilter.com/124294/Baby-Got-Brooms)
+#### [OXO, Crooks and Robbers...?](http://www.oxo.com/quirkyresponse.aspx) via [Baby Got Brooms](http://www.metafilter.com/124294/Baby-Got-Brooms)
 
 Quirky is a business that sources ideas for products from inventors via the internet and, having used its 'community' to select designs, puts these ideas into a process potentially leading to production.
 

@@ -3,9 +3,9 @@ layout: post
 title: Focus of attention
 ---
 
-## As you can see, nearly everyone who visited my site came for the original image, maybe scrolled once or twice through others in that set, then left.
+### As you can see, nearly everyone who visited my site came for the original image, maybe scrolled once or twice through others in that set, then left.
 
-### [Things I Learned After My Photo Hit #1 on Reddit, and Why I Probably Shouldn’t Have Posted It](http://petapixel.com/2014/07/25/things-learned-photo-hit-1-spot-reddit-probably-shouldnt-posted/)
+#### [Things I Learned After My Photo Hit #1 on Reddit, and Why I Probably Shouldn’t Have Posted It](http://petapixel.com/2014/07/25/things-learned-photo-hit-1-spot-reddit-probably-shouldnt-posted/)
 
 This highlights how a photo of Mount Fuji posted to reddit resulted in thousands of visits to the original photographer's website. No one looked at anything else. No one bought a print. They came. They stayed for that one page. They left, never to return.
 

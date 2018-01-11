@@ -3,9 +3,9 @@ layout: post
 title: Snapchat like the teens
 ---
 
-## I would watch in awe as she flipped through her snaps, opening and responding to each one in less than a second with a quick selfie face. She answered all 40 of her friends' snaps in under a minute.
+### I would watch in awe as she flipped through her snaps, opening and responding to each one in less than a second with a quick selfie face. She answered all 40 of her friends' snaps in under a minute.
 
-### <a href="http://kottke.org/16/02/snapchat-like-the-teens">Snapchat like the teens</a>
+#### <a href="http://kottke.org/16/02/snapchat-like-the-teens">Snapchat like the teens</a>
 
 Great summary of a longer Buzzfeed post where the author observes his sister using Snapchat.
 

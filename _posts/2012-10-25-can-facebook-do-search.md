@@ -3,9 +3,9 @@ layout: post
 title: Can Facebook do search?
 ---
 
-## Facebook is pretty uniquely positioned to answer the questions people have. At some point we’ll do it. We have a team working on it.
+### Facebook is pretty uniquely positioned to answer the questions people have. At some point we’ll do it. We have a team working on it.
 
-### [Mark Zuckerburg](http://techcrunch.com/2012/09/11/zuckerberg-we-have-a-team-working-on-search/)
+#### [Mark Zuckerburg](http://techcrunch.com/2012/09/11/zuckerberg-we-have-a-team-working-on-search/)
 
 Facebook's search functionality is awful and unlikely to improve. What matters from a revenue point-of-view is which search terms are profitable and the volume at which you can generate clicks on those terms. Every other result just ensures that when people think 'search' and want to make one of those profitable queries they come to you.
 

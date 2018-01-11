@@ -4,25 +4,22 @@ layout: default
 
     <h1>Mark Higginson</h1>
 
+    <h2>The web is a social artifact.</h2>
+
     <p>This short <a href="/pages/manifesto.html">manifesto</a> covers what I hold to be self-evident about modern marketing practices, particularly related to online activity.</p>
     
-    <p>This piece about <a href="/pages/attention_flow.html">how people's attention flows on the web</a> evidences why I believe the above to be true.</p>
+    <p>This piece about <a href="/pages/attention_flow.html">how people's attention flows on the web</a> highlights the fundamental misunderstanding that causes almost all online marketing to be ineffective.</p>
 
-    <p>The blog that follows is a series of short posts that taken together provides further support to my arguments.</p>
+    <p>The blog that follows consists of a series of short posts that support my arguments.</p>
   
     <p>&nbsp;</p>
-
-    <h2>The web is a social artifact.<br>
-    Here is a selected collection of related items:</h2>
-
-	<p>&nbsp;</p>
 
 {% for post in paginator.posts %}
 
   <div>
-    <h3><a href="{{ post.url }}">{{ post.date | date_to_long_string }}</a></h3>
+    <h4><a href="{{ post.url }}">{{ post.date | date_to_long_string }}</a></h4>
     <p>{{ post.content }}</p>
-    <h3>Let me know what you think on <a href="https://twitter.com/markhgn">Twitter</a></h3>
+    <h4>Let me know what you think on <a href="https://twitter.com/markhgn">Twitter</a></h4>
 	<p>&nbsp;</p>
   </div>
 

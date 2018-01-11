@@ -3,7 +3,7 @@ layout: post
 title: How many cars do you sell in New Delhi?
 ---
 
-## How many cars do you sell in New Delhi?
+### How many cars do you sell in New Delhi?
 
 I get a strong sense that many marketing campaigns are about holding a mirror up to the business paying the invoice and murmuring complimentary things. I refer to this as 'The Emperor's New Clothes'; as long as the marketing department looks on-the-job it's in no-one's interests to ask awkward questions.
 

@@ -3,9 +3,9 @@ layout: post
 title: Ad nauseum
 ---
 
-## Working in coordination with Ad Block Plus, AdNauseam quietly clicks every blocked ad, registering a visit on the ad networks' databases.
+### Working in coordination with Ad Block Plus, AdNauseam quietly clicks every blocked ad, registering a visit on the ad networks' databases.
 
-### [Clicking ads so you don’t have to](https://github.com/dhowe/AdNauseam/wiki/About-AdNauseum)
+#### [Clicking ads so you don’t have to](https://github.com/dhowe/AdNauseam/wiki/About-AdNauseum)
 
 While this extension does "obfuscate browsing data" I wonder if this is both a benefit to the user and a benefit to the ad networks. Given the industry suffers from [widespread problems with click-fraud](http://markhigginson.co.uk/2013/10/23/display-advertising-fraud/) it doesn't seem that the quality of the data is the issue provided advertisers are still willing to throw money into display. More clicks across more areas of interest generating more data for 'targeting' is superficially good news. The accuracy is not something the networks are likely to shout about.
 

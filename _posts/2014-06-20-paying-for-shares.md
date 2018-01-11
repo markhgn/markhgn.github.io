@@ -3,9 +3,9 @@ layout: post
 title: Paying for shares
 ---
 
-## Although most brands are active on social media, they’re also starting to understand the value of building their own communities through their own platforms.
+### Although most brands are active on social media, they’re also starting to understand the value of building their own communities through their own platforms.
 
-### [4 Ways Brands Can Battle Facebook’s Fast-Decreasing Organic Reach](http://contently.com/strategist/2014/06/17/4-ways-brands-can-battle-facebooks-fast-decreasing-organic-reach/)
+#### [4 Ways Brands Can Battle Facebook’s Fast-Decreasing Organic Reach](http://contently.com/strategist/2014/06/17/4-ways-brands-can-battle-facebooks-fast-decreasing-organic-reach/)
 
 > "A few months ago, Sephora built its own Instagram-like platform called the Beauty Board. Coca-Cola also has a platform dedicated to football (soccer) fans. And American Express has created a vibrant community of small business owners through OPEN Forum. (Full disclosure: Both AmEx and Coca-Cola are Contently clients.)"
 

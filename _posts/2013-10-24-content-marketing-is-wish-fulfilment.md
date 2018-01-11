@@ -3,7 +3,7 @@ layout: post
 title: Closing your eyes and wanting it to be true won't make it work
 ---
 
-## Closing your eyes and wanting it to be true won't make it work
+### Closing your eyes and wanting it to be true won't make it work
 
 I have been saying this for several years and end up spelling it out in simpler terms each time I say it: content marketing on the web does not work and will not work for 'brands'. No business can make the expenditure on the quality and quantity of content required to win significant attention pay a decent return on their investment; at least not in terms of getting people to care enough about them to turn this into sales. The argument that it 'creates awareness' is intangible, but more to the point is likewise untrue because of how attention flows on the web.
 

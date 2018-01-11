@@ -3,9 +3,9 @@ layout: post
 title: Is the AmEx Open Forum really a community?
 ---
 
-## AmEx's OPEN forum took four years to get 1 million people aboard and now gets over 150,000 unique visitors per month.
+### AmEx's OPEN forum took four years to get 1 million people aboard and now gets over 150,000 unique visitors per month.
 
-### <a href="http://neilperkin.typepad.com/only_dead_fish/2012/12/digital-content-trends-2013.html" rel="nofollow">Digital Content Trends 2013</a>
+#### <a href="http://neilperkin.typepad.com/only_dead_fish/2012/12/digital-content-trends-2013.html" rel="nofollow">Digital Content Trends 2013</a>
 
 This quote is from a presentation about 'trends' in digital content. It was from a talk to the <a href="http://www.donotlink.com/www.the-cma.com/" rel="nofollow">Content Marketing Association</a> and is an example of the kind of assertion I see in many presentations of this type related to ‘brands as publishers’.
 
@@ -41,15 +41,15 @@ Interestingly there seems to be no shortage of posts congratulating AmEx on a su
 
 > "Beginning in 2007, OPEN forum established itself as a leading source of business insight and advice."
 
-> ### [American Express OPEN keeps 'pulse' on small business with social media](http://www.zdnet.com/blog/feeds/american-express-open-keeps-pulse-on-small-business-with-social-media/2019)
+> #### [American Express OPEN keeps 'pulse' on small business with social media](http://www.zdnet.com/blog/feeds/american-express-open-keeps-pulse-on-small-business-with-social-media/2019)
 
 > "This enlightened perspective has made OpenForum.com a runaway success."
 
-> ### [What Amercian Express' Open can teach us about social media](http://www.fastcompany.com/1669407/what-american-expresss-open-can-teach-us-about-social-media)
+> #### [What Amercian Express' Open can teach us about social media](http://www.fastcompany.com/1669407/what-american-expresss-open-can-teach-us-about-social-media)
 
 > "Tumblr is a vibrant channel for OPEN forum and it is increasingly becoming important for its business audience."
 
-> ### [AMEX OPEN Forum taps New York City's startup community](http://thenextweb.com/insider/2011/11/04/amex-open-forum-taps-new-york-citys-startup-community/)
+> #### [AMEX OPEN Forum taps New York City's startup community](http://thenextweb.com/insider/2011/11/04/amex-open-forum-taps-new-york-citys-startup-community/)
 
 None of these quotes are believable. 
 

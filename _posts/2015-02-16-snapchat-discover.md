@@ -3,9 +3,9 @@ layout: post
 title: Snapchat Discover 
 ---
 
-## Part of Snapchat's success comes from its gradual shift from simply facilitating social interactions between friends to staking out new ground as a media platform.
+### Part of Snapchat's success comes from its gradual shift from simply facilitating social interactions between friends to staking out new ground as a media platform.
 
-### [How Snapchat Is Taking Over Everything](http://www.thefader.com/2015/02/06/how-snapchat-is-taking-over-everything)
+#### [How Snapchat Is Taking Over Everything](http://www.thefader.com/2015/02/06/how-snapchat-is-taking-over-everything)
 
 As this article provides no verifiable data to support its claim I'm going to speculate wildly too: I don't think Snapchat's users will have any long-term interest in the new 'Discover' feature. It's more brand marketing fantasyland stuff.
 

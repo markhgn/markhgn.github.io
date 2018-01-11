@@ -3,7 +3,7 @@ layout: post
 title: Business is political
 ---
 
-## Business is political
+### Business is political
 
 OkCupid have [weighed in](http://valleywag.gawker.com/okcupid-blocks-firefox-over-anti-gay-ceo-1555611770) on the [Brendan Eich gay marriage issue](https://brendaneich.com/2014/03/inclusiveness-at-mozilla/) by inserting a splash screen for Firefox users actively dissuading them from using this browser to access their website.
 

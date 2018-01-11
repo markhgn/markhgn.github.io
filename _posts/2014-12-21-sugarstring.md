@@ -3,9 +3,9 @@ layout: post
 title: Sugarstring
 ---
 
-## The company, like most brands venturing into content marketing, also struggled to articulate where a publication like SugarString fit in with the company’s overall marketing goals.
+### The company, like most brands venturing into content marketing, also struggled to articulate where a publication like SugarString fit in with the company’s overall marketing goals.
 
-### [Brand lessons from Verizon’s failed publishing venture](http://digiday.com/publishers/nielsenes-lessons-verizons-failed-tech-news-site-sugarstring/)
+#### [Brand lessons from Verizon’s failed publishing venture](http://digiday.com/publishers/nielsenes-lessons-verizons-failed-tech-news-site-sugarstring/)
 
 Back in October I tweeted this:
 

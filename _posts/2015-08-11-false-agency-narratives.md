@@ -3,9 +3,9 @@ layout: post
 title: False agency narratives
 ---
 
-## Brands are increasingly developing content ‘micro-hubs’ housing aggregated content from their social channels.
+### Brands are increasingly developing content ‘micro-hubs’ housing aggregated content from their social channels.
 
-### <a href="http://wearesocial.net/blog/2015/08/renting-social-good-owning/" rel="nofollow">Renting social is good, but owning is better</a>
+#### <a href="http://wearesocial.net/blog/2015/08/renting-social-good-owning/" rel="nofollow">Renting social is good, but owning is better</a>
 
 Here’s an example of how agencies still want their clients to believe notions that are completely and obviously at odds with reality.
 

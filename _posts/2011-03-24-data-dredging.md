@@ -3,9 +3,9 @@ layout: post
 title: Data dredging
 ---
 
-## If you just take a pile of data that shares one common element (the thing you are interested in), you will likely find some other common elements purely by chance. Until you prove otherwise, these are associations, not necessarily correlations.
+### If you just take a pile of data that shares one common element (the thing you are interested in), you will likely find some other common elements purely by chance. Until you prove otherwise, these are associations, not necessarily correlations.
 
-### [Social Media Data Dredging](http://brandsavant.com/social-media-data-dredging/)
+#### [Social Media Data Dredging](http://brandsavant.com/social-media-data-dredging/)
 
 Well worth reading the full post. It highlights the reason I'm cautious about the general body of 'research' that comprises conjecture about what people are up to on the web. These facts are very much of the "and if you laid them all end-to-end they would stretch from here to the moon" type of analysis, hence not useful for formulating genuinely useful strategy.
 

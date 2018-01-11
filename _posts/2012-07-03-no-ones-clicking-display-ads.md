@@ -3,9 +3,9 @@ layout: post
 title: No one's clicking display adverts
 ---
 
-## We do not click on display ads. We do not notice banners. The only ad medium on the web we use consistently is Google. But we are so swamped with hype about online advertising that we seem to have become blind to our own behavior.
+### We do not click on display ads. We do not notice banners. The only ad medium on the web we use consistently is Google. But we are so swamped with hype about online advertising that we seem to have become blind to our own behavior.
 
-### [Behavior Blindness](http://adcontrarian.blogspot.co.uk/2012/06/behavior-blindness.html)
+#### [Behavior Blindness](http://adcontrarian.blogspot.co.uk/2012/06/behavior-blindness.html)
 
 Those who sell display advertising refer to this format as though it's relevant to everyone who uses the web &#8211; much like live broadcast television advertising is utterly unavoidable.
 

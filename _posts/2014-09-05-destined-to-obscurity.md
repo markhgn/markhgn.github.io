@@ -3,9 +3,9 @@ layout: post
 title: Destined to obscurity
 ---
 
-## A majority of articles never make it onto Twitter or Facebook.
+### A majority of articles never make it onto Twitter or Facebook.
 
-### [86% of News Articles Not Shared Within 72 Hours](http://blog.newswhip.com/index.php/2013/08/social-sharing-86-of-news-articles-are-never-shared)
+#### [86% of News Articles Not Shared Within 72 Hours](http://blog.newswhip.com/index.php/2013/08/social-sharing-86-of-news-articles-are-never-shared)
 
 If you've read any of [my previous posts](http://markhigginson.co.uk/2013/01/21/are-content-marketers-wilfully-delusional-examples/) on this topic you'll know that I believe the majority of the marketing industry present an at best overly optimistic and at worst completely false picture of how useful it is to engage in large-scale web publishing efforts.
 

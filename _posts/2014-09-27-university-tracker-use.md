@@ -3,7 +3,7 @@ layout: post
 title: University tracker use
 ---
 
-## Most popular web trackers used by UK universities.
+### Most popular web trackers used by UK universities.
 
 Keeping an eye on which universities use which web trackers tells me a lot about the sector as a whole and about what individual institutions are up to. I keep a complete list and track changes.
 

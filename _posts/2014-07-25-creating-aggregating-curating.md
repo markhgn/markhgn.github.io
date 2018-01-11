@@ -3,7 +3,7 @@ layout: post
 title: Creating, aggregating and curating
 ---
 
-## Creating, aggregating and curating.
+### Creating, aggregating and curating.
 
 I like the idea of using aggregated content from social platforms as a way to contextualise an event. It's the sort of thing Storify offers. However, I don't want to point people to Storify nor do I like the appearance of their embedded version or want to pay in order to be able to customise this. 
 

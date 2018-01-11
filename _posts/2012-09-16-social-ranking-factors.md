@@ -3,9 +3,9 @@ layout: post
 title: Social ranking factors
 ---
 
-## Everyone in search is by now aware that certain social signals are well-correlated with rankings. I wanted to see if it was actually plausible for these correlations to arise without social signals being a direct ranking factor.
+### Everyone in search is by now aware that certain social signals are well-correlated with rankings. I wanted to see if it was actually plausible for these correlations to arise without social signals being a direct ranking factor.
 
-### [Do Improved Social Signals Cause Improved Rankings?](http://moz.com/blog/do-improved-social-signals-cause-improved-rankings)
+#### [Do Improved Social Signals Cause Improved Rankings?](http://moz.com/blog/do-improved-social-signals-cause-improved-rankings)
 
 A lot of SEO practitioners are touting the notion that social signifiers, i.e. 'likes', 'shares', etc. are also signals that are picked-up by search engine ranking algorithms. The argument is that these are more reliable indicators of popularity than links as it is likely that a real person is behind each signal. However, actual evidence that these 'social signals' cause fluctuations in rankings is non-existent.
 

@@ -3,9 +3,9 @@ layout: post
 title: Flickr and Yahoo
 ---
 
-## And that was the problem. At the time, the Web was rapidly becoming more social, and Flickr was at the forefront of that movement. It was all about groups and comments and identifying people as contacts, friends or family. To Yahoo, it was just a fucking database.
+### And that was the problem. At the time, the Web was rapidly becoming more social, and Flickr was at the forefront of that movement. It was all about groups and comments and identifying people as contacts, friends or family. To Yahoo, it was just a fucking database.
 
-### [How Yahoo Killed Flickr and Lost the Internet](http://gizmodo.com/5910223/how-yahoo-killed-flickr-and-lost-the-internet)
+#### [How Yahoo Killed Flickr and Lost the Internet](http://gizmodo.com/5910223/how-yahoo-killed-flickr-and-lost-the-internet)
 
 Yahoo lost the battle for search and went straight on to lose the battle for social. 
 

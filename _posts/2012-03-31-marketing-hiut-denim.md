@@ -3,7 +3,7 @@ layout: post
 title: Marketing Hiut Denim
 ---
 
-## Marketing Hiut Denim
+### Marketing Hiut Denim
 
 Marketing relies on the schemas by which we frame our collective experience. There is a general lack of critical analysis to be found among those responsible for these manipulations. The consensus is to ignore the framing within which both actor and audience simultaneously participate.
 

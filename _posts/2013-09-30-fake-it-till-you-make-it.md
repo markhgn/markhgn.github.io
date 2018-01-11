@@ -3,9 +3,9 @@ layout: post
 title: Fake it till you make it
 ---
 
-## We show that the problem is widespread - nearly one out of five reviews marked as fake, by Yelp's algorithm.
+### We show that the problem is widespread - nearly one out of five reviews marked as fake, by Yelp's algorithm.
 
-### [Fake It Till You Make It: Reputation, Competition, and Yelp Review Fraud](http://people.hbs.edu/mluca/FakeItTillYouMakeIt.pdf)
+#### [Fake It Till You Make It: Reputation, Competition, and Yelp Review Fraud](http://people.hbs.edu/mluca/FakeItTillYouMakeIt.pdf)
 
 I enjoy reading research papers as they present findings alongside the evidence to support them, which makes a welcome change from posts on marketing blogs.
 

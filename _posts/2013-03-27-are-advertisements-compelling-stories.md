@@ -3,9 +3,9 @@ layout: post
 title: Advertisements are compelling stories
 ---
 
-## Audiences don’t want to hear an advertisement. They want to be gripped by a compelling story.
+### Audiences don’t want to hear an advertisement. They want to be gripped by a compelling story.
 
-### [The Art and Science of Great Brand Storytelling](http://sayquarterly.com/feature-storytelling.php)
+#### [The Art and Science of Great Brand Storytelling](http://sayquarterly.com/feature-storytelling.php)
 
 This post was strangely not in itself a great story. It was yet another promotional post for content marketing, in this case for a self-described ‘post-advertising agency’. The author states:
 
