@@ -1,0 +1,11 @@
+name: "Mark Higginson"
+description: "The web is a social artifact. Here is a collection of related items."
+
+url: "http://markhigginson.co.uk/"
+
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
+
+markdown: kramdown
+permalink: pretty
