@@ -9,4 +9,4 @@ title: Secret lives of Tumblr teens
 
 This comment is a little disingenuous. The reality is that the major social platforms don't like you making money if they're not getting their cut. Logical given this is their only revenue stream and are massively over-valued.
 
-The piece the quote comes from is fantastic in every way and well worth a read. It charts the rise of popular blogs run by teens that are then destroyed by their involvement with affliate marketing. Truly a parable of the modern web.
+The piece the quote comes from is fantastic in every way and well worth a read. It charts the rise of popular blogs run by teens that are then destroyed by their involvement with affiliate marketing. Truly a parable of the modern web.
