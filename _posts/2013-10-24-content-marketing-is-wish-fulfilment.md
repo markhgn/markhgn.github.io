@@ -17,7 +17,7 @@ Attention on the web follows a heavy-tail distribution, an abrupt curve from a h
 
 Now divide all those figures by four. What you will be left with is the approximate number of people who bothered to read the whole page in each case.
 
-Now try plotting the number of people who completed a goal on each of those pages; the thing that you want each person viewing your content to do next in each case. You should have set this for each page. Or why else would you be spending vast resources on publishing hundreds of pieces of content as recommended in the above post?
+Now try plotting the number of people who completed a goal on each of those pages; the thing that you want each person viewing your content to do next. You should have set this for each page. Or why else would you be spending vast resources on publishing hundreds of pieces of content as recommended in the above post?
 
 Problem is, there is no way of predicting ahead of time which are the few posts that will do significantly better than the majority. You have to do the lot which is why this whole approach does not scale, unless of course your entire purpose is to be a content destination. It is telling that Michael Brito uses the New York Times as an example, claiming they publish over 1,500 articles per day. They are still at the mercy of that heavy-tail distribution however; it is just that their worst performing post is an order of magnitude more successful than your best performing post. 
 
