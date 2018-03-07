@@ -11,7 +11,7 @@ Here’s an example of how agencies still want their clients to believe notions 
 
 The statement above is presented with no supporting evidence. ‘Micro-sites’ have been de rigeur for years now. It’s what agencies always do because of the associated planning, design, build and marketing fees. They also don’t work, appearing and disappearing as campaigns start and end, failing to sustain interest.
 
-For more on this read [my award-winning post](http://sparksheet.com/should-coca-cola-quit-its-content-marketing-journey/) about Coca-Cola’s attempt to build a 'hub', with supporting data, and in particular do refer to the comments.
+For more on this read [my award-winning post](https://web.archive.org/web/20160716204439/http://sparksheet.com/should-coca-cola-quit-its-content-marketing-journey/) about Coca-Cola’s attempt to build a 'hub', with supporting data, and in particular do refer to the comments.
 
 These places are the antithesis of a hub. Consider the following:
 
